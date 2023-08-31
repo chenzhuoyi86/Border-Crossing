@@ -1,7 +1,6 @@
 import random
 from random import randrange
 import csv
-from pyprobs import Probability as pr
 
 
 def remove_column(filename, newfile, k):
