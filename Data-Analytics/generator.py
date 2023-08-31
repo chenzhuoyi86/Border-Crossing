@@ -1,5 +1,5 @@
-# this is a python script to generate random people information in order to perform investigative data analysis
-# using different database software. The purpose of these data is to mimick people who crossed the border to come 
+# This is a Python script to generate random people's information in order to perform investigative data analysis
+# using different database software. The purpose of these data is to mimic people who crossed the border to come 
 # to Canada during the early 20th century; their data can be found at:  https://www.ancestrylibrary.ca/search/categories/40/
 
 
@@ -9,7 +9,7 @@ from datetime import timedelta
 import random
 
 
-# preprocess birthday, constrianed to people born after 1840 before 1930 (smimulating the year 1930)
+# preprocess birthday, constrained to people born after 1840 before 1930 (simulating the year 1930)
 start_date = datetime.date(1840, 1, 1)
 end_date   = datetime.date(1929, 12, 31)
 information = []
