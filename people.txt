@@ -1,0 +1,1000 @@
+Andre Benedict,1854-12-09,Ethiopia,Bulgarian,Eṭ Ṭaiyiba-Israel-Central District,False,Slovak, Waverley, Nova Scotia,9,False,951,True
+Constance Willcutt,1863-05-21,Hatay,Assiniboine Sioux,Tāki-India-West Bengal,True,Bhojpuri, Estevan, Saskatchewan,1,False,742,True
+Stephanie Hoefer,1916-06-07,Haiti,Samoan,Eastchester-United States-New York,True,Fula, Webbwood, Ontario,9,False,970,True
+Kyle Watkins,1885-11-12,Vienna,United Houma Nation,Marion-United States-Illinois,False,Estonian, Sapawe, Ontario,8,True,247,True
+Susan Mersch,1869-02-08,Bulgaria,West Indian,Sparta-Greece-Peloponnese,True,Xiang, Scotland, Ontario,5,False,711,True
+Neil Marcello,1917-03-09,China,Asian,Yunlong-China-Jiangsu,False,Tajik, St. Marys, Ontario,6,False,900,True
+Katie Collingsworth,1900-04-15,Soviet Union,North African,Iringal-India-Kerala,True,Portuguese, Pincher Creek, Alberta,3,False,391,True
+Dolores Wilson,1846-11-15,Ethiopia,Grenadian,Ghosī-India-Uttar Pradesh,True,Gan, Sarnia, Ontario,6,False,208,True
+Peggy Cherrington,1856-12-19,Honduras,Puerto Rican,Limay-France-Île-de-France,True,Afrikaans, Barachois, Quebec,2,False,583,True
+Amanda Ellman,1897-08-27,Ireland,Slavic,North Lakes-Australia-Queensland,True,Mongolian, St-Liboire, Quebec,9,True,172,True
+Randal Ward,1841-11-18,China,Colombian,Gosport-United Kingdom-England,True,Madurese, Regina Beach, Saskatchewan,2,False,207,True
+Alice Holton,1867-10-02,Ethiopia,Kenyan,Navalgund-India-Karnataka,True,Polish, Norman Wells, Northwest Territories,3,False,913,False
+Yolanda Nethercutt,1850-08-30,Bolivia,Bolivian,‘Afrīn-Syria-Aleppo,False,Chhattisgarhi, Maccan, Nova Scotia,8,False,633,True
+Margaret Dailey,1923-01-06,Vatican City,Somali,Lázaro Cárdenas-Mexico-Baja California,True,Estonian, Cartier, Ontario,4,False,802,True
+Constance Martinez,1929-01-08,Liechtenstein,Confederated Salish and Kootenai Tribes of the Flathead Nation,Chakapara-India-West Bengal,False,Uzbek, Ste-Eulalie, Quebec,4,True,488,True
+Martha Mcvay,1920-12-12,El Salvador,Panamanian,Chaoyang-China-Liaoning,True,Marathi, Hardisty, Alberta,1,False,911,False
+Mary Mcfadden,1870-12-31,Costa Rica,Shoshone,Parma Heights-United States-Ohio,True,Hiligaynon, Franklin Centre, Quebec,5,False,629,True
+Harry Golden,1842-12-26,Haiti,Italian,Kampong Baharu Balakong-Malaysia-Selangor,True,Albanian, Middleton, Nova Scotia,3,False,554,True
+Tamra Martinez,1926-10-01,Ireland,American Indian and Alaska Native in combination with one or more other races,Modugno-Italy-Apulia,True,Macedonian, West Guilford, Ontario,1,False,526,True
+Jonathan Jackson,1858-01-24,Tuva,West Indian,Omdurman-Sudan-Khartoum,True,Khmer, Covehead, Prince Edward Island,3,False,294,False
+Michael Pearson,1875-08-10,Mongolia,Iranian,Herford-Germany-North Rhine-Westphalia,True,Igbo, Degelis, Quebec,5,False,257,True
+Cyril Wallace,1920-11-10,New Zealand,Afghan,Boumahra Ahmed-Algeria-Guelma,True,Assamese, St. George, Ontario,1,False,661,True
+Edna Carroll,1890-12-04,Hatay,Alsatian,Bozyazı-Turkey-Mersin,False,Awadhi, Lagoon City, Ontario,5,False,208,True
+Melissa James,1881-10-02,Bolivia,German,Sainte-Marguerite-France-Provence-Alpes-Côte d'Azur,True,Malay, Melocheville, Quebec,4,False,404,True
+Ruth Goodwin,1904-03-04,Denmark,Iroquois,Punākha-Bhutan-Punakha,True,Kinyarwanda, Kitsault, British Columbia,5,False,205,False
+Colin Mclendon,1897-08-12,Tuva,Shawnee,Bangolo-Ivory Coast-Montagnes,True,Irish, Cap-a-l`Aigle, Quebec,7,False,384,True
+Kenneth Ortiz,1844-12-07,Latvia,Confederated Salish and Kootenai Tribes of the Flathead Nation,Pattoki-Pakistan-Punjab,True,Latin, Flatrock, British Columbia,5,True,724,True
+Frank King,1897-06-21,Sweden,Asian Indian,North Hills-United States-California,False,Zhuang, Postville, Newfoundland,7,False,55,True
+Jacalyn Sung,1874-12-05,Romania,Iroquois,Yeonil-South Korea-Gyeongsangbuk-do,False,Oromo, Ile-aux-Coudres, Quebec,5,True,424,True
+Frances Martin,1872-05-19,Argentina,Eastern Tribes,Zalingei-Sudan-Central Darfur,True,Latin, Grenville, Quebec,6,False,522,True
+Stephen Fleischman,1915-02-16,Brazil,Aleut,Ilanskiy-Russia-Krasnoyarsk Krai,True,Maori, Cobourg, Ontario,4,False,588,True
+Irene Mitchell,1896-08-17,Monaco,Yugoslavian,Ternate-Indonesia-North Maluku,True,Kinyarwanda, Amos, Quebec,6,False,967,True
+Chris Eager,1854-11-07,Poland,Okinawan,Phoenixville-United States-Pennsylvania,True,Igbo, Webb, Saskatchewan,2,True,192,True
+Nellie Ash,1874-06-06,Yemen,Native Hawaiian and other Pacific Islander in combination with one or more other races,Cuncolim-India-Goa,False,Sesotho, Yarmouth, Nova Scotia,6,False,109,False
+Robin Malone,1865-02-16,United States,Yemeni,Sarāi Ākil-India-Uttar Pradesh,True,Burmese, Vermilion, Alberta,4,False,826,True
+Beverly Keyes,1846-03-04,Romania,Cherokee,Rybinsk-Russia-Yaroslavl Oblast,True,Finnish, Tantallon, Saskatchewan,3,False,174,True
+Dorothy Catchings,1865-04-22,Italy,Greek,Dunhua-China-Jilin,True,Mossi, Colborne, Ontario,9,False,829,True
+Carol Wall,1901-10-24,Mongolia,Arab/Arabic,Ad Dasmah-Kuwait-Al Asimah,True,Min Dong, Field, British Columbia,5,True,12,True
+Judith Phillips,1913-06-22,Colombia,Asian in combination with one or more other races,Bawshar-Oman-Muscat,True,Uzbek, Monkton, Ontario,4,False,309,False
+Kari Hardison,1882-12-21,Germany,Romanian,Budva-Montenegro-Budva,True,, St-Celestin, Quebec,4,False,920,False
+Michael Hayes,1907-11-16,Italy,Zimbabwean,Javānrūd-Iran-Kermānshāh,True,Min Nan, Jellicoe, Ontario,9,False,960,True
+Sherry Bear,1872-11-06,Belgium,Arab/Arabic,Tangub-Philippines-Northern Mindanao,True,Lithuanian, White Fox, Saskatchewan,7,False,689,True
+Wilbert Byrd,1854-09-21,Nepal,American Indian,Chernogolovka-Russia-Moscow Oblast,True,Bangla, St-Pascal, Quebec,2,False,639,True
+Brandon Wehunt,1842-09-20,Honduras,Colombian,Klerksdorp-South Africa-North-West,True,Balochi, Mitchell, Ontario,8,False,902,False
+Bradley Grosvenor,1893-02-04,South Africa,Honduran,Kuchinarai-Thailand-Kalasin,True,Hiligaynon, Campbellton, Newfoundland,1,False,577,True
+Pamela Fischer,1859-07-12,Japan,Some other race,Qingshanquan-China-Jiangsu,True,Norwegian, Ryley, Alberta,6,False,901,True
+Melissa Valez,1908-07-04,El Salvador,Apache,Tachilek-Myanmar-Shan,True,Somali, Ketch Harbour, Nova Scotia,3,False,228,False
+Veronica Grimes,1845-11-18,Korea,Hispanic or Latino,Jaguaquara-Brazil-Bahia,True,Cebuano, Hartney, Manitoba,4,True,216,True
+Harold Chance,1894-10-10,Honduras,Dutch,Pulandian-China-Liaoning,False,Bantu, Alberta Beach, Alberta,3,False,236,True
+Ruth Johnson,1908-11-13,South Africa,Bolivian,Culiacán-Mexico-Sinaloa,True,Zulu, Acadia Valley, Alberta,7,False,119,True
+Jennifer Davis,1870-09-11,Nepal,Costa Rican,Karpinsk-Russia-Sverdlovsk Oblast,True,Khmer, Wandering River, Alberta,6,False,867,True
+David Maberry,1904-07-11,France,Chilean,Pooler-United States-Georgia,True,Creole, Exshaw, Alberta,2,True,931,True
+Dennis Winston,1917-06-23,Bolivia,Tongan,La Flèche-France-Pays de la Loire,True,Catalán, Caramat, Ontario,1,False,542,True
+Jerry Anderson,1914-03-28,Uruguay,Pakistani,Zintan-Libya-Jabal al Gharbi,True,Xhosa, Dupuy, Quebec,1,False,928,True
+Joseph Keefer,1918-09-13,Honduras,Sierra Leonean,Tejen-Turkmenistan-Ahal,True,Maithili, Norwood, Ontario,3,False,345,True
+Ramona Burton,1898-08-06,Afghanistan,Norwegian,Masuda-Japan-Shimane,True,Quechua, Bath, New Brunswick,8,True,320,True
+Melody Butler,1890-05-25,Tuva,Saudi Arabian,Mocímboa-Mozambique-Cabo Delgado,True,Burmese, St-Tite, Quebec,8,True,409,False
+Willie Anderson,1904-01-31,Liechtenstein,Mexican American Indian,Severodvinsk-Russia-Arkhangelskaya,True,Somali, Newburgh, Ontario,4,False,503,False
+Dana Allen,1893-12-10,Switzerland,Costa Rican,Castrop-Rauxel-Germany-North Rhine-Westphalia,True,Maithili, Inukjuak, Quebec,9,False,818,True
+Lakiesha Francour,1853-02-18,Belgium,Pakistani,San Rafael Oriente-El Salvador-San Miguel,False,Georgian, Birsay, Saskatchewan,6,False,392,True
+Thomas Sharpe,1887-06-09,Cuba,Pakistani,Chunskiy-Russia-Irkutsk Oblast,True,Chinese (Simplified), Sainte Angele De Monnoir, Quebec,1,False,116,True
+Patrice Hutchens,1842-02-03,San Marino,Bhutanese,Waltham Abbey-United Kingdom-England,True,Awadhi, Queensport, Nova Scotia,4,False,388,True
+Kevin Taylor,1843-02-10,Poland,Gambian,Ahmadpur East-Pakistan-Punjab,True,Min Nan, Granby, Quebec,5,False,386,True
+Jina Butler,1905-10-23,Yemen,Assyrian/Chaldean/Syriac,Victoria-Chile-Araucanía,False,Myanmar (Burmese), Rock Creek, British Columbia,1,False,783,True
+Marion Dent,1855-03-30,Peru,Two or more races,Bozova-Turkey-Şanlıurfa,True,Oriya, Glovertown, Newfoundland,5,False,616,False
+Bernice Person,1873-03-27,Korea,Latvian,Curchorem-India-Goa,True,Creole, Neguac, New Brunswick,1,False,13,False
+Elizabeth London,1851-08-04,Costa Rica,Fijian,Ojiya-Japan-Niigata,True,Kinyarwanda, Weedon, Quebec,1,False,138,False
+Robert Mitchell,1845-06-19,United States,Syrian,Jacarezinho-Brazil-Paraná,True,Cantonese, Sedgewick, Alberta,1,False,48,False
+Kathy Gilbert,1925-02-02,Estonia,Danish,Maliana-Timor Leste-Bobonaro,True,Kannada, Abitibi Canyon, Ontario,1,False,213,True
+Kristin Trinklein,1880-07-22,Iceland,Tlingit-Haida,Hermsdorf-Germany-Berlin,True,Pashto, Marmora, Ontario,1,False,45,False
+Jon Aldrich,1899-01-27,Honduras,Czechoslovakian,South Lake Tahoe-United States-California,True,Burmese, Lower Post, British Columbia,9,True,52,True
+Tami French,1841-03-12,Danzig,Belizean,Karak City-Jordan-Karak,True,Turkish, Port Hardy, British Columbia,4,False,572,False
+Mark Hayden,1899-10-20,Germany,Romanian,Dublin-United States-California,True,Chinese (Simplified), Centreville, New Brunswick,1,False,962,True
+Aileen Sugg,1909-12-11,Mongolia,Luxemburger,Broken Arrow-United States-Oklahoma,False,Tamil, Bromptonville, Quebec,5,True,211,True
+Chris Ortega,1896-11-10,Venezuela,Black or African American in combination with one or more other races,Braniewo-Poland-Warmia-Masuria,True,German, Notre Dame des Laurentides, Quebec,3,False,463,True
+Debbie Batarse,1928-01-18,El Salvador,Assyrian/Chaldean/Syriac,Bāsudebpur-India-Odisha,True,Saraiki, Port Hardy, British Columbia,7,False,736,False
+Lois Mcbain,1924-05-07,Luxembourg,Ukrainian,Richmond-South Africa-KwaZulu-Natal,True,Javanese, Sioux Lookout, Ontario,8,True,194,False
+James Driscoll,1921-11-09,Bulgaria,Finnish,Moosburg-Germany-Bavaria,True,Serbian, Leaf Rapids, Manitoba,9,False,152,True
+Clyde Faison,1891-08-17,Colombia,Bangladeshi,Hermitage-United States-Tennessee,True,Slovenian, Bala, Ontario,7,True,283,True
+Loura Chipman,1927-06-24,Cuba,Guatemalan,Brownsville-United States-New York,True,Dari Persian, Clarence-Rockland, Ontario,6,False,298,True
+Roy Johnson,1923-02-24,Portugal,Spaniard,Chivasso-Italy-Piedmont,True,Madhura, Island Harbour, Newfoundland,1,False,133,True
+Clara Hall,1891-01-24,Chile,Luiseno,Jarosław-Poland-Subcarpathia,True,Myanmar (Burmese), Alert Bay, British Columbia,5,True,18,False
+Karla Roman,1865-05-22,Norway,American Indian and Alaska Native in combination with one or more other races,Viana-Brazil-Maranhão,True,Serbo-Croatian, Teeswater, Ontario,8,False,626,False
+Angel Dettinger,1859-02-14,Korea,Inupiat,Canton-United States-Georgia,True,Chittagonian, Oxford, Nova Scotia,9,True,199,True
+Jennifer Smith,1851-01-04,South Africa,Ottawa,Ogre-Latvia-Ogre,True,Esperanto, Armstrong, British Columbia,4,False,238,True
+Franklin Mace,1857-06-21,Haiti,Black or African American in combination with one or more other races,Hoeryŏng-North Korea-Hambuk,True,Oriya, Warner, Alberta,9,False,671,True
+Wm Maione,1850-10-27,Australia,Shawnee,Jaguaquara-Brazil-Bahia,True,Oriya, Bissett, Manitoba,8,False,817,True
+Renato Alexander,1842-03-07,Portugal,Three or more races,Gaithersburg-United States-Maryland,True,Finnish, Saint Etienne de Lauzon, Quebec,2,False,387,True
+Teresa Hart,1924-10-12,Afghanistan,Miami,Kisesa-Tanzania-Simiyu,True,Belarusian, Digby, Nova Scotia,2,False,772,True
+Kevin Lee,1917-12-29,Finland,Lebanese,Masvingo-Zimbabwe-Masvingo,True,Bangla, Dokis, Ontario,8,False,432,True
+Amanda Gaul,1848-06-07,Newfoundland,Native Hawaiian,Be’er Ya‘aqov-Israel-Central District,True,Cantonese, Nippers Harbour, Newfoundland,2,True,256,True
+Richard Sams,1913-08-02,Aussa,Pakistani,Kunwi-South Korea-Gyeongsangbuk-do,True,Macedonian, St-Pierre, Quebec,4,False,151,True
+Jim Stitt,1884-02-24,Italy,Chilean,Kozáni-Greece-West Macedonia,True,Tajik, Frenchmans Island, Newfoundland,6,False,415,True
+Jacquelyn Goforth,1924-01-20,Czechoslovakia,Potawatomi,Hachinohe-Japan-Aomori,True,Kinyarwanda, Maniwaki, Quebec,8,False,62,True
+Thomas Allred,1874-10-12,Panama,Canadian and French American Indian,Beja-Portugal-Beja,True,Sundanese, Bonavista, Newfoundland,2,False,35,False
+Theresa Thompson,1858-10-19,China,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,Rāmjībanpur-India-West Bengal,True,Mandarin, Pierreville, Quebec,8,False,15,True
+Kenneth Moise,1916-09-03,China,Liberian,Ambohitrolomahitsy-Madagascar-Analamanga,True,Malagasy, Mallorytown, Ontario,3,False,686,False
+Johnnie Burghard,1862-06-16,Brazil,Hmong,Ibusuki-Japan-Kagoshima,True,Kirundi, Elrose, Saskatchewan,5,False,68,False
+Amber Shorter,1887-12-23,Guatemala,Scandinavian,Kardzhali-Bulgaria-Kardzhali,True,Esperanto, Opasatika, Ontario,3,False,654,True
+John Miller,1920-06-21,Hungary,Grenadian,Bieruń-Poland-Silesia,True,Swedish, Kerwood, Ontario,6,False,307,False
+Lorna Best,1884-07-22,Luxembourg,St. Vincent and Grenadine Islander,Sambalpur-India-Odisha,True,Sundanese, Webequie, Ontario,2,False,16,False
+Andrea Turner,1885-11-09,Danzig,Tlingit-Haida,Riesa-Germany-Saxony,True,Wu, Kleinburg, Ontario,6,False,183,True
+Joyce Fogg,1909-04-17,Mexico,Central American,Kabale-Uganda-Western Region,True,Ukrainian, Powassan, Ontario,4,False,337,True
+Andrew Hull,1854-09-17,Nejd and Hejaz,Two or more races,Ké-Macina-Mali-Ségou,True,Persian, Mont-Laurier, Quebec,4,False,158,True
+John Kanas,1910-12-02,Chile,Macedonian,Bushey-United Kingdom-England,True,Castilian, Thunder Bay, Ontario,7,False,773,True
+Joseph Colen,1864-12-02,New Zealand,Canadian and French American Indian,Dome-Ghana-Greater Accra,False,Polish, Saint Mathieu de Beloeil, Quebec,6,False,120,True
+Sharon Workman,1887-03-01,Vatican City,Norwegian,Koszalin-Poland-West Pomerania,True,Zulu, Christian Island, Ontario,5,False,356,True
+Josephine Landry,1870-12-03,Yugoslavia,Salvadoran,Thamaga-Botswana-Kweneng,True,Min Bei, Delaware of the Thames(Moravia, Ontario,6,False,877,True
+Paul Mauro,1852-10-27,Greece,Costa Rican,Brawley-United States-California,True,Xiang, Calling Lake, Alberta,4,False,851,True
+Patricia Navarro,1852-02-07,Netherlands,American,Khagaul-India-Bihar,True,Marwari, Fortierville, Quebec,9,False,394,True
+Denise Lichty,1859-09-15,Soviet Union,American Indian and Alaska Native in combination with one or more other races,Bani Yas City-United Arab Emirates-Abu Dhabi,True,Uzbek, Blackie, Alberta,7,False,954,True
+Paul Ellsworth,1875-10-26,Luxembourg,Some other race in combination with one or more other races,Dumaguete-Philippines-Central Visayas,True,Zulu, Foremost, Alberta,9,False,504,True
+Gerald Huebner,1915-08-24,Guatemala,Puerto Rican,Giresun-Turkey-Giresun,True,Cebuano, Stirling, Alberta,4,False,23,True
+Phillip Gill,1913-12-02,Vienna,Mongolian,Dübendorf-Switzerland-Zurich,True,Greek, Lucky Lake, Saskatchewan,6,False,955,True
+Susana Deal,1900-04-15,Yemen,Latvian,Mukher-India-Maharashtra,True,Slovak, Thedford, Ontario,7,False,666,True
+Drew Jackson,1887-03-09,Soviet Union,Apache,Xalatlaco-Mexico-México,True,Lithuanian, Thorsby, Alberta,7,False,342,True
+Benjamin Johnson,1855-10-06,Turkey,Crow Tribe of Montana,Nāḩiyat ash Shināfīyah-Iraq-Al Qādisīyah,True,Hungarian, Manitowaning, Ontario,9,False,814,True
+Antonio Moore,1922-08-01,Cuba,Yugoslavian,Deer Valley-United States-Arizona,False,Chinese (Simplified), Milestone, Saskatchewan,3,False,330,True
+Sara Rosol,1842-05-22,Belgium,Dominican,Cheektowaga-United States-New York,True,Dutch, Ituna, Saskatchewan,4,False,116,True
+Christopher Fagan,1926-11-24,Canada,Pakistani,Barrington-United States-Rhode Island,True,Konkani, Saint Mathieu de Beloeil, Quebec,2,False,773,True
+Patti Singelton,1903-05-12,Nicaragua,Sioux,Dausa-India-Rajasthan,True,Indonesian, Notre Dame De L`Ile Perrot, Quebec,2,True,489,True
+Frances Zullo,1922-09-09,Iceland,Polynesian,Bangkalan-Indonesia-East Java,True,Javanese, Treherne, Manitoba,4,False,997,True
+Troy Rina,1850-06-22,Korea,Irish,San Juan Bautista-Venezuela-Nueva Esparta,True,Latin, Dieppe, New Brunswick,1,True,466,True
+Janet Morber,1907-12-15,France,Spanish American Indian,Turbo-Colombia-Antioquia,True,Quechua, Hughenden, Alberta,3,True,823,True
+Geneva Hoag,1860-04-30,Finland,American,Kidderminster-United Kingdom-England,True,Lithuanian, Laird, Saskatchewan,2,False,654,True
+Lakiesha Harris,1922-09-23,Newfoundland,Irish,Charlotte Amalie-U.S. Virgin Islands-Saint Thomas Island,True,Marwari, Low, Quebec,8,False,823,True
+Connie Mast,1929-12-14,Yugoslavia,Three Affiliated Tribes of North Dakota,Akhtyrskiy-Russia-Krasnodar Krai,False,Gan, Piney, Manitoba,4,False,102,False
+Tami Roberts,1929-08-28,Denmark,Filipino,Vinkovci-Croatia-Vukovar-Sirmium,False,Madurese, Portugal Cove-St. Philip`s, Newfoundland,1,False,518,True
+Robert Craig,1850-06-12,Luxembourg,Burmese,Rhondda-United Kingdom-Wales,True,Hmong, Hopedale, Newfoundland,6,False,559,True
+Teresa Lovette,1859-12-10,Mongolia,Hopi,Antequera-Spain-Andalusia,True,Korean, Wesleyville, Newfoundland,5,False,770,True
+David Seidell,1865-08-28,Canada,Dutch West Indian,Iizuka-Japan-Fukuoka,True,Castilian, Borden, Saskatchewan,2,False,588,True
+Thomas Groomes,1918-07-20,South Africa,Bulgarian,Abnūb-Egypt-Asyut,False,Russian, Newport, Quebec,7,False,51,True
+Larry Pelkey,1912-10-31,Denmark,Bhutanese,Morden-United Kingdom-England,True,Zulu, Arborg, Manitoba,7,False,758,True
+Susan Looney,1891-09-01,Korea,Cheyenne,Wittstock-Germany-Brandenburg,True,Georgian, Poste-de-la-Baleine, Quebec,1,True,286,True
+Ruth Gildea,1843-02-11,Yemen,Pakistani,Dali-China-Yunnan,True,Dutch, Clermont, Quebec,3,False,744,False
+Elizabeth Lema,1853-12-11,Australia,Danish,Calne-United Kingdom-England,True,Nepali, Fort Liard, Northwest Territories,1,False,210,True
+Lee Bennett,1870-12-25,Liechtenstein,Bulgarian,Shikārpur-India-Karnataka,True,Gujariti, Boissevain, Manitoba,5,False,348,True
+Floyd Carter,1907-01-30,Mongolia,Bulgarian,Geertruidenberg-Netherlands-North Brabant,True,Marwari, Eagle River, Ontario,3,False,698,True
+Lauren Noah,1886-03-28,United Kingdom,Albanian,Berat-Albania-Berat County,True,Cebuano, Fenelon Falls, Ontario,4,True,475,True
+Joel Chapman,1853-08-11,Estonia,Honduran,Gannan-China-Heilongjiang,True,Latvian, Watford, Ontario,7,True,126,False
+Sylvia Crespo,1911-06-10,Ireland,Australian,Döbeln-Germany-Saxony,True,Malagasy, Thorne, Ontario,1,False,858,True
+Chelsea Willingham,1900-11-10,Denmark,Polynesian,Kenscoff-Haiti-Ouest,True,Amharic, Norwich, Ontario,3,False,263,True
+Robert Polston,1909-02-22,Venezuela,Paiute,Rouge-Canada-Ontario,True,Oromo, Namao, Alberta,4,False,213,True
+Geri Porter,1847-01-07,Colombia,Japanese,Aydın-Turkey-Aydın,True,Zhuang, Winkler, Manitoba,5,False,328,True
+Terry Bishop,1894-08-25,Costa Rica,Mexican American Indian,Liuku-China-Yunnan,False,Norwegian, Arden, Ontario,4,False,489,True
+Matthew Lafreniere,1925-07-03,Uruguay,Maltese,Crowthorne-United Kingdom-England,True,Chhattisgarhi, St-Sylvestre, Quebec,2,False,679,True
+Alyson Baumgardner,1854-06-25,Greece,Confederated Tribes and Bands of the Yakama Nation,Tremont-United States-New York,True,Madhura, Flamborough, Ontario,6,False,210,True
+Teresa Mcmasters,1921-11-19,Sweden,Dutch,Kholmskiy-Russia-Krasnodar Krai,False,Bhojpuri, Crystal Beach, Ontario,9,True,337,True
+James Gongora,1871-05-30,South Africa,New Zealander,Charleston-United States-South Carolina,True,Bulgarian, Sainte Brigide D`Iberville, Quebec,7,False,69,True
+Ernesto Drummond,1856-04-09,Persia,Oneida Tribe of Indians of Wisconsin,La Vista-United States-Nebraska,True,Arabic, Notre Dame des Laurentides, Quebec,5,False,683,True
+William Weed,1883-02-08,Finland,Venezuelan,Griesheim-Germany-Hesse,True,Lao, Cook`s Harbour, Newfoundland,1,False,92,True
+Gregory Brown,1912-06-01,Norway,Arab,Bra-Italy-Piedmont,True,Lithuanian, Likely, British Columbia,2,False,642,True
+Lance Mosley,1875-09-18,Danzig,Pima,Wusu-China-Xinjiang,True,Czech, St-Urbain, Quebec,5,False,7,False
+Donald Ricketts,1914-10-04,El Salvador,Central American,Shāntipur-India-West Bengal,True,Danish, Allardville, New Brunswick,8,True,291,True
+Fred Joshua,1851-05-17,Cuba,Antiguan and Barbudan,Edmundston-Canada-New Brunswick,True,Ilokano, St. Gedeon de Beauce, Quebec,5,False,873,False
+Dianna Myklebust,1883-11-02,Hungary,German,Chaska-United States-Minnesota,True,Estonian, Lac-aux-Sables, Quebec,6,False,106,False
+Emily Farney,1906-02-23,Monaco,Finnish,Purmerend-Netherlands-North Holland,False,Sesotho, Havre-Aubert, Quebec,5,True,770,True
+William Keys,1867-07-05,Peru,Scotch-Irish,Lazarevac-Serbia-Central Serbia,True,Hindi, Saint-Élie, Quebec,4,False,760,True
+Fred Theuret,1868-01-03,United States,Tlingit-Haida,Ulundi-South Africa-KwaZulu-Natal,False,English, Hickson, Ontario,4,False,204,False
+Terry Payne,1891-02-22,Mongolia,Syrian,Chefushan-China-Jiangsu,True,Serbian, Beachburg, Ontario,5,False,980,False
+Ted Green,1863-03-02,Australia,Colombian,Vihari-Pakistan-Punjab,True,Maithili, Altario, Alberta,3,False,229,True
+Tiffany Shaver,1893-05-29,Liechtenstein,Ghanaian,Ansan-si-South Korea-Gyeonggi-do,True,Bangla, Queensville, Ontario,7,False,4,True
+Richard Clayton,1929-06-11,Yemen,Pennsylvania German,Santa Fe-Argentina-Santa Fe,True,Georgian, Key Lake, Saskatchewan,7,False,62,True
+Margaret Miller,1844-05-29,Bolivia,American Indian and Alaska Native,Bet Shemesh-Israel-Jerusalem,True,Catalán, St-Andre-Avellin, Quebec,7,False,575,True
+Joshua Conrad,1926-12-08,Monaco,Seminole,Tejar-Costa Rica-San José,True,Hakka, St. Honore, Quebec,8,False,330,True
+Aurora Gage,1841-05-04,Netherlands,Turkish,Paisley-United Kingdom-Scotland,True,Norwegian, Campbellville, Ontario,5,False,984,True
+William Fields,1897-06-16,El Salvador,Potawatomi,Pingdu-China-Shandong,True,Min Nan, Duvernay, Quebec,4,False,183,False
+Janet Coleman,1848-03-08,Czechoslovakia,Arapaho,Pendleton-United States-Oregon,False,Farsi, Darlingford, Manitoba,5,False,531,True
+Willie Duckworth,1868-02-02,Chile,Cuban,Tongjiaxi-China-Chongqing,False,Bhojpuri, Good Hope Lake, British Columbia,7,False,696,True
+Lura Downs,1920-06-07,El Salvador,Iraqi,North Bel Air-United States-Maryland,True,Azerbaijani, Pineal Lake, Ontario,3,False,636,True
+Nancy Martinez,1845-04-12,Danzig,Crow Tribe of Montana,Patnāgarh-India-Odisha,True,Kazakh, Chesterville, Quebec,7,False,919,True
+Alan Thomas,1885-04-17,Honduras,American Indian and Alaska Native,San Luis Jilotepeque-Guatemala-Jalapa,True,Chinese (Traditional), Milo, Alberta,8,True,9,False
+Vicky Peterson,1891-01-19,Bulgaria,Native Hawaiian and other Pacific Islander,Taleigao-India-Goa,False,Assamese, Teeswater, Ontario,8,False,733,True
+Jacqueline Potter,1909-01-13,Ireland,Micmac,Cachoeirinha-Brazil-Rio Grande do Sul,False,Belarusian, Marshall, Saskatchewan,7,False,333,True
+Daniel Dorman,1921-11-15,Hatay,Confederated Tribes of the Colville Reservation,Jalesar-India-Uttar Pradesh,True,Romanian, St-Ubalde, Quebec,7,False,993,False
+Kimberly Robertson,1860-10-23,Nejd and Hejaz,Comanche Nation,Zhongshan-China-Guangdong,True,Min Bei, Inverary, Ontario,1,True,235,True
+Jacquelin Jackson,1888-01-03,Peru,Subsaharan African,Lagos-Nigeria-Lagos,True,Balochi, Daysland, Alberta,8,False,578,True
+Thomas Raio,1910-10-14,Chile,Hungarian,Friedrichshain-Germany-Berlin,False,Malay, Bowen Island, British Columbia,4,False,153,True
+Jonathan Becker,1895-07-02,San Marino,Costa Rican,Palau-Mexico-Coahuila,False,Polish, Queen Charlotte, British Columbia,8,False,684,True
+Levi Fletcher,1866-03-27,Tuva,Armenian,Heqiao-China-Jiangsu,True,Sinhalese, Webbwood, Ontario,1,False,29,False
+Charles Chandler,1866-06-21,Romania,Latvian,Fāqūs-Egypt-Sharqia,True,Gujariti, Leclercville, Quebec,5,False,902,True
+William Wilson,1863-03-11,Luxembourg,Creek,Gūdūr-India-Andhra Pradesh,True,German, Ste. Angele de Laval, Quebec,9,False,130,True
+Maria Martin,1869-03-07,Mongolia,American Indian,Dazaifu-Japan-Fukuoka,True,Chittagonian, Hagersville, Ontario,8,False,796,True
+Marcella Rivas,1893-12-23,Nicaragua,Egyptian,Ellwangen-Germany-Baden-Wurttemberg,True,Punjabi, Armstrong, British Columbia,9,False,99,False
+Robert Crowe,1907-11-14,Belgium,Fijian,Saint-Pierre-Reunion-Réunion,True,Hiligaynon, New Haven, Prince Edward Island,3,False,656,False
+Bridget Honeycutt,1923-01-04,Peru,Czechoslovakian,Tuxiang-China-Chongqing,True,Thai, Conquest, Saskatchewan,3,False,923,True
+Brandon Hill,1848-12-25,Belgium,Guamanian or Chamorro,Parnaíba-Brazil-Piauí,False,Wu, St-Roch-des-Aulnaies, Quebec,6,False,585,True
+Virginia Fox,1871-12-25,Romania,Pomo,Niederkrüchten-Germany-North Rhine-Westphalia,False,Welsh, Fox Creek, Alberta,2,False,693,True
+Latia Maust,1915-12-13,Estonia,Sudanese,Xiaochangshan-China-Liaoning,True,Telugu, Mutton Bay, Quebec,9,False,905,True
+Juanita Tomlinson,1909-05-05,United Kingdom,Native Hawaiian and other Pacific Islander in combination with one or more other races,Chivolo-Colombia-Magdalena,True,Bhojpuri, Clarksville, Nova Scotia,1,False,729,True
+Loren Krogstad,1880-06-12,China,Russian,Naujoji Vilnia-Lithuania-Vilnius,True,Hakka, Manotick, Ontario,9,False,935,True
+Cora Calaf,1876-04-30,Costa Rica,Slovak,Batumi-Georgia-Achara,True,Finnish, Black Diamond, Alberta,6,False,414,False
+Kelly Snyder,1856-01-05,Vienna,Iraqi,Wazirabad-Pakistan-Punjab,True,Indonesian, East Bay, Nova Scotia,1,False,48,False
+Amelia Alderman,1862-12-10,Panama,Melanesian,Kibuye-Rwanda-Western Province,True,Xiang, Clarks Corners, New Brunswick,5,True,637,True
+Mary Morrell,1844-03-20,Ireland,Palauan,Thomasville-United States-North Carolina,True,Lao, Woodstock, New Brunswick,5,True,718,True
+Robbin Dean,1891-09-13,Siam,Spanish American Indian,Shangri-La-China-Yunnan,True,Kazakh, Lintlaw, Saskatchewan,1,False,420,True
+Tim Mercer,1878-09-23,Paraguay,Romani,Sandhurst-United Kingdom-England,True,Gujariti, Abernethy, Saskatchewan,8,False,902,True
+Ruth Gonzalez,1879-11-28,Ethiopia,Yaqui,Wahiawā-United States-Hawaii,True,Deccan, Stirling, Alberta,8,False,219,False
+Andra Spence,1927-07-21,Brazil,British West Indian,Akhaltsikhe-Georgia-Samtskhe-Javakheti,True,Filipino, Val-David, Quebec,5,False,957,True
+Catherine Cook,1926-01-22,Italy,Eastern Tribes,Herzogenrath-Germany-North Rhine-Westphalia,True,Lao, Palmer Rapids, Ontario,3,False,697,True
+Victor Thrower,1923-10-17,Italy,Palestinian,Nanping-China-Chongqing,False,Estonian, Pikwitonei, Manitoba,6,False,256,True
+Aletha Taylor,1915-05-31,Soviet Union,Menominee Indian,Dhāriwāl-India-Punjab,True,Croation, Sarnia, Ontario,9,False,401,True
+John Fierro,1884-03-27,Yugoslavia,Yugoslavian,Qujing-China-Yunnan,True,Igbo, Hay Lakes, Alberta,9,False,418,True
+Danyel Benally,1899-01-12,Brazil,Yup'ik,Umm Al Quwain City-United Arab Emirates-Imārat Umm al Qaywayn,True,Filipino, Oshawa, Ontario,9,False,235,True
+Joseph Pacheco,1887-08-26,Honduras,Alaskan Athabascan,Taupo-New Zealand-Waikato,True,Sesotho, Wabowden, Manitoba,4,False,413,False
+Sylvester Douglas,1848-08-21,Newfoundland,Oneida Tribe of Indians of Wisconsin,Jelgava-Latvia-Jelgava,True,Russian, Yahk, British Columbia,5,False,760,True
+Nancy Stokes,1924-05-20,Denmark,Luiseno,Ejea de los Caballeros-Spain-Aragon,True,Galician, Cap-Pele, New Brunswick,2,False,259,True
+Rebecca Averitte,1929-03-08,Canada,Native Hawaiian,Guadalupe Victoria-Mexico-Baja California,True,Georgian, Innisfil, Ontario,7,False,998,False
+Kathy Edwards,1884-12-12,Turkey,Oneida Tribe of Indians of Wisconsin,Torgau-Germany-Saxony,True,Haitian Creole, St-Lambert-de-Lauzon, Quebec,3,False,738,True
+Peter Pickard,1881-05-14,El Salvador,Micmac,Verviers-Belgium-Wallonia,False,Chittagonian, Saint Pierre D`Orleans, Quebec,9,False,381,True
+Kenneth Kulik,1887-01-22,San Marino,Thai,Fengling-China-Chongqing,True,Punjabi, Porcupine Plain, Saskatchewan,2,False,282,True
+Cyril Cook,1845-05-14,Vatican City,Canadian,Naranjito-Ecuador-Guayas,True,Basque, Regina Beach, Saskatchewan,5,False,783,False
+Todd Stuart,1858-07-05,Uruguay,Algerian,Udaipur-India-Tripura,True,Haryanvi, St-Zephirin, Quebec,7,True,99,True
+John Culp,1921-06-23,Latvia,American Indian and Alaska Native,Santiago Papasquiaro-Mexico-Durango,True,Slovenian, Brooklin, Ontario,9,False,291,True
+Sally Soloveichik,1849-10-26,Hungary,Iraqi,Utraula-India-Uttar Pradesh,False,Zulu, Andrew, Alberta,6,False,686,True
+Cynthia Baird,1901-12-10,Persia,Serbian,Yehud-Israel-Central District,False,Amharic, Magrath, Alberta,7,False,27,True
+Jeffrey Pickel,1857-12-25,Albania,Confederated Tribes and Bands of the Yakama Nation,Rheine-Germany-North Rhine-Westphalia,True,Kazakh, Christopher Lake, Saskatchewan,2,False,312,False
+Ruth Inman,1874-01-06,Mongolia,Croatian,Skarżysko-Kamienna-Poland-Świętokrzyskie,True,Estonian, Port Dover, Ontario,5,False,850,True
+Juan Canfield,1848-11-25,Italy,Native Hawaiian and other Pacific Islander,İncirliova-Turkey-Aydın,True,Magahi, Ste-Petronille, Quebec,1,False,229,True
+Pauline Watson,1920-05-21,El Salvador,Slovene,Khadyzhensk-Russia-Krasnodar Krai,True,Welsh, Rothesay, New Brunswick,4,True,989,True
+Zachery Christion,1887-03-22,San Marino,Chilean,Amrāvati-India-Maharashtra,True,Konkani, Mellin, Quebec,2,True,19,False
+Angela Powell,1913-01-13,Vienna,Paraguayan,Scafati-Italy-Campania,True,Marathi, Pointe-des-Cascades, Quebec,5,False,147,False
+Margaret Starr,1903-10-05,Bulgaria,Lebanese,Reyes Acozac-Mexico-México,False,Uyghur, Norval, Ontario,2,False,448,True
+Donna Andrews,1883-04-13,Guatemala,English,Tagudin-Philippines-Ilocos,True,Hiligaynon, Ste-Adele, Quebec,4,False,873,True
+Jeffrey Acklin,1899-08-06,Romania,Maltese,Tianpeng-China-Sichuan,True,Creole, Morley, Alberta,3,False,79,True
+Sharon Barnett,1902-04-09,Aussa,Puerto Rican,Sāmalkot-India-Andhra Pradesh,True,Urdu, Kennedy, Saskatchewan,2,False,535,False
+Meredith Jones,1861-02-21,United States,Tlingit-Haida,Wesseling-Germany-North Rhine-Westphalia,True,Quechua, Wunnummin Lake, Ontario,1,False,411,True
+Dennis Reardon,1870-07-22,Ireland,Cree,Bata-Equatorial Guinea-Litoral,False,Turkish, Fossambault-sur-le-Lac, Quebec,6,True,19,False
+John Johnson,1855-10-23,Newfoundland,Iranian,Hohenstein-Ernstthal-Germany-Saxony,True,Japanese, Vaudreuil Dorion, Quebec,1,False,155,True
+Katherine Pratt,1919-05-19,Sweden,Irish,Acocks Green-United Kingdom-England,False,Binisaya, Victoria, Newfoundland,5,False,954,True
+Karie Bearden,1870-08-19,Monaco,Syrian,Kunshan-China-Jiangsu,False,Haryanvi, Swift Current, Saskatchewan,6,False,209,True
+Christel Pedersen,1902-10-12,Bulgaria,Egyptian,Mutsu-Japan-Aomori,True,Mandarin, Clermont, Quebec,7,False,779,True
+Jane Brobst,1860-12-16,Persia,Egyptian,Apengjiang-China-Chongqing,False,Chichewa, Upsala, Ontario,8,True,535,True
+Veronica Burkhart,1847-06-26,Sweden,Canadian,Naẕerat ‘Illit-Israel-Northern District,True,Madurese, Mabou, Nova Scotia,6,False,443,True
+David Sperrey,1865-06-23,Hatay,Luxemburger,Batticaloa-Sri Lanka-Eastern Province,False,Somali, Beaumont, Quebec,5,False,484,True
+Dawn Mcneal,1926-12-08,Bolivia,Mexican,Holtsville-United States-New York,True,Chinese (Traditional), Whitewood, Saskatchewan,5,False,645,False
+Keith Leyva,1868-04-09,Uruguay,Salvadoran,Saint-Étienne-du-Rouvray-France-Normandy,True,Min Nan, Moose Factory, Ontario,8,False,431,True
+Kent Wiggins,1852-12-29,Honduras,Laotian,Ukhta-Russia-Komi,True,Galician, Fords Mills, New Brunswick,4,False,821,True
+Lucille Farley,1900-09-30,Bolivia,Carpatho Rusyn,Sirumugai-India-Tamil Nadu,True,Latin, Acadia Valley, Alberta,8,False,715,True
+Saundra Meese,1876-09-30,Portugal,Black or African American in combination with one or more other races,Sinop-Turkey-Sinop,True,Croation, Levis, Quebec,5,False,912,True
+Christopher Calderon,1893-05-20,Guatemala,Vietnamese,Maplewood-United States-New Jersey,True,Arabic, Terra Nova, Newfoundland,9,True,55,True
+Nancy Donahue,1843-08-08,Hatay,Ghanaian,Azov-Russia-Rostov,False,Kazakh, Meductic, New Brunswick,5,False,734,True
+Earl Dunn,1877-10-26,Vienna,Potawatomi,Yuci-China-Shanxi,False,Greek, Listowel, Ontario,1,False,129,True
+Ruby Schuster,1879-08-21,Germany,Belizean,Fontana-United States-California,True,Hmong, Mica Creek, British Columbia,4,False,853,True
+Warren Boyd,1889-04-30,Latvia,Native Hawaiian and other Pacific Islander,Purwokerto-Indonesia-Central Java,True,Lao, Campbellton, Newfoundland,6,False,602,True
+Lloyd Decker,1870-03-14,Costa Rica,Mexican,Hala-Pakistan-Sindh,True,Esperanto, St-Fulgence, Quebec,5,False,571,True
+Gerald Louis,1909-06-30,Bolivia,Yemeni,Marseille 01-France-Provence-Alpes-Côte d'Azur,False,German, Osoyoos, British Columbia,8,False,464,True
+Joseph Smith,1911-09-07,Panama,Alsatian,Middelharnis-Netherlands-South Holland,True,Belarusian, Blackville, New Brunswick,2,False,329,True
+Gerald Creach,1878-07-14,Denmark,Vietnamese,Bhātpāra Abhaynagar-Bangladesh-Khulna,True,Shona, Collingwood Corner, Nova Scotia,9,True,183,False
+Francisco Wyatt,1891-06-11,El Salvador,Lithuanian,Longhe-China-Chongqing,True,Malayalam, Cochin, Saskatchewan,7,False,244,True
+Robert Davis,1867-09-25,Canada,Russian,João Pinheiro-Brazil-Minas Gerais,False,Konkani, Bauline, Newfoundland,6,False,913,True
+Florence Boham,1915-05-08,Greece,Icelander,Wheeling-United States-Illinois,True,Akan, Senneville, Quebec,6,False,305,True
+Doris Nixon,1848-12-24,Romania,Ute,Churāchāndpur-India-Manipur,True,Belorussian, Prevost, Quebec,3,False,154,False
+Bertie Correa,1921-05-13,Turkey,Lithuanian,Düsseldorf-Pempelfort-Germany-North Rhine-Westphalia,False,Sundanese, Lockeport, Nova Scotia,4,False,58,True
+Dorothy Shelton,1901-03-05,Japan,Micmac,Tigwav-Haiti-Ouest,True,Creole, Caledon, Ontario,7,True,679,False
+Evan Odegard,1870-05-19,Haiti,Asian in combination with one or more other races,Qorasuv-Uzbekistan-Andijon,True,Spanish, St. Ambroise de Chicoutimi, Quebec,9,True,607,True
+Renee Kampa,1919-03-13,Vatican City,West Indian,Mawāna-India-Uttar Pradesh,False,Swahili, Debden, Saskatchewan,5,False,784,True
+Minna Shafer,1861-09-08,Finland,Bhutanese,Kemalpaşa-Turkey-İzmir Province,True,Indonesian, Souris, Manitoba,7,True,929,True
+Robert Mccue,1890-04-01,Canada,Chilean,Fortuna Foothills-United States-Arizona,True,Zulu, Smith, Alberta,8,False,961,True
+Ethel Collins,1926-07-09,Ethiopia,Assiniboine Sioux,Raybag-India-Karnataka,True,Zulu, Bamfield, British Columbia,9,False,877,True
+Phuong Strawbridge,1875-07-12,Iceland,Canadian,Yelan’-Russia-Volgograd Oblast,True,Georgian, Notre-Dame-de-la-Paix, Quebec,2,False,88,True
+Tyrone Mckenzie,1876-01-19,Costa Rica,French,Chelsea-United States-Massachusetts,True,Deccan, Great Harbour Deep, Newfoundland,6,False,271,True
+Karen Smith,1896-10-21,Poland,Sierra Leonean,Mount Martha-Australia-Victoria,True,German, Brantford, Ontario,5,True,500,True
+Holly Solis,1852-09-19,Portugal,Nigerian,Waterloo-Canada-Ontario,True,Awadhi, O`Leary, Prince Edward Island,7,True,515,False
+Anthony Hale,1871-11-27,Yugoslavia,Icelander,Moanda-Gabon-Haut-Ogooué,False,Welsh, Henryville, Quebec,7,False,905,True
+Nelly Steele,1922-07-31,South Africa,Romani,Bermejo-Bolivia-Tarija Department,True,Urdu, Lac la Croix, Ontario,1,False,138,True
+Lois Draper,1928-11-25,Argentina,Tunisian,Le Gosier-Guadeloupe-Guadeloupe,False,, Port McNeill, British Columbia,4,False,360,True
+Yolanda Austin,1841-08-31,Bulgaria,Hopi,Bloxwich-United Kingdom-England,False,Dutch, Coleville, Saskatchewan,1,False,504,True
+Susan Wiley,1896-05-26,Australia,Slavic,Lancaster-United States-Ohio,True,Hausa, Meductic, New Brunswick,4,False,969,False
+Anna Land,1844-01-03,Mexico,Uruguayan,Kelo-Chad-Tandjilé,True,Assamese, Smiths Falls, Ontario,8,True,574,True
+Sheena Alfaro,1929-07-14,Latvia,Marshallese,Partizansk-Russia-Primorye,True,, Easterville, Manitoba,7,False,95,True
+Nicholas Edwards,1847-09-13,Liberia,Pima,Albal-Spain-Valencia,True,Marwari, Hanna, Alberta,5,False,151,True
+Tony Grossen,1902-03-02,Yemen,Korean,Rānīpur-India-Uttar Pradesh,True,Azerbaijani, Wellington, Prince Edward Island,1,False,427,True
+Crystal Strain,1860-07-22,Nejd and Hejaz,Swedish,Thívai-Greece-Central Greece,True,Cantonese, St-Eustache, Quebec,9,False,226,True
+Irene Ortiz,1895-10-09,Sweden,Japanese,Guarda-Portugal-Guarda,True,Bengali, Carbonear, Newfoundland,8,False,324,True
+Marvin Marsha,1867-10-28,Nejd and Hejaz,Vietnamese,Ken Caryl-United States-Colorado,True,Romanian, Blue Ridge, Alberta,8,False,107,True
+Bonnie Bentley,1923-01-25,United States,Yugoslavian,Corona-United States-California,False,Xhosa, Notre Dame Des Prairies, Quebec,4,False,736,True
+Mark Hardin,1894-04-10,Hungary,Bulgarian,Ar Rahad-Sudan-North Kordofan,True,Thai, Witless Bay, Newfoundland,9,True,129,False
+Joseph Boykin,1874-12-05,San Marino,South African,Mijdrecht-Netherlands-Utrecht,False,Macedonian, Summer Beaver, Ontario,7,False,800,False
+Lisa Pokswinski,1866-12-03,Honduras,Tsimshian,Aubervilliers-France-Île-de-France,True,Welsh, Lawrenceville, Quebec,2,False,22,False
+Kathryn Copeland,1867-08-03,Denmark,White in combination with one or more other races,Broadview Heights-United States-Ohio,True,Galician, Elmvale, Ontario,1,False,702,True
+Bernice Hamilton,1913-06-14,Argentina,Scottish,Camarate-Portugal-Lisbon,True,Assamese, Kenosee, Saskatchewan,4,False,994,False
+Margaret Fuller,1859-05-04,Danzig,Romanian,Lyon 02-France-Auvergne-Rhône-Alpes,True,Uzbek, Mount Brydges, Ontario,9,False,87,False
+Emilee Speed,1867-07-14,Uruguay,Burmese,Wiesbaden-Germany-Hesse,False,Afrikaans, Ste-Victoire, Quebec,2,False,476,True
+Mabel Turman,1927-04-22,San Marino,White in combination with one or more other races,Trondheim-Norway-Trøndelag,True,Sesotho, Joe Batt`s Arm-Barr`d Islands-, Newfoundland,6,True,727,True
+Susan Jimenez,1927-10-17,Cuba,Seminole,Someshwar-India-Karnataka,False,Romanian, Montréal - Nord, Quebec,3,False,780,False
+Michael Jones,1886-12-30,Liberia,Portuguese,Gladbeck-Germany-North Rhine-Westphalia,True,Dari Persian, Ste. Angele de Laval, Quebec,5,True,97,True
+Elizabeth Gibson,1896-09-20,France,West Indian,Itabaiana-Brazil-Paraíba,True,Min Bei, Gabriola, British Columbia,6,False,133,False
+Hilda Hughes,1854-01-31,Nicaragua,Indonesian,Bay City-United States-Texas,True,Haitian Creole, Cambridge Bay, Nunavut,4,True,675,True
+Rebeca Ward,1926-05-06,Albania,Uzbek,Ballito-South Africa-KwaZulu-Natal,True,Danish, Mansonville, Quebec,6,False,831,True
+Charles Parra,1876-08-05,Peru,Azerbaijani,Newry-United Kingdom-Northern Ireland,False,Cantonese, Paquetville, New Brunswick,8,False,470,True
+Dorothy Myers,1905-04-23,Turkey,Romani,Santafé-Spain-Andalusia,True,Kurdish, Clark`s Harbour, Nova Scotia,1,True,658,True
+Frances Silva,1920-11-28,Norway,French Canadian,Āstārā-Iran-Gīlān,True,Quechua, Hant`s Harbour, Newfoundland,8,False,815,False
+Ronald Small,1895-03-12,New Zealand,Mexican American Indian,Rosedale-Moore Park-Canada-Ontario,True,Haitian Creole, Sandy Bay, Saskatchewan,8,False,446,False
+Elizabeth Grant,1928-11-14,Monaco,Cuban,Randfontein-South Africa-Gauteng,True,Oriya, Stoneham, Quebec,1,False,91,False
+Betty Seefeldt,1845-02-17,Costa Rica,Some other race,Kingman-United States-Arizona,False,Javanese, Delta, Ontario,1,False,674,True
+Celia Williams,1923-01-07,United Kingdom,Arab/Arabic,Zvečan-Kosovo-Mitrovica,True,, Sandy Lake, Ontario,1,False,467,True
+John Webb,1902-08-22,United Kingdom,Barbadian,Naciria-Algeria-Boumerdes,False,Chichewa, Cardston, Alberta,1,False,372,True
+Bridgett Fitzsimmons,1867-03-07,Lithuania,European,Nuevitas-Cuba-Camagüey,True,Hausa, Logan Lake, British Columbia,3,False,891,True
+Jean Krock,1868-05-11,Norway,Oneida Tribe of Indians of Wisconsin,Moutsamoudou-Comoros-Anjouan,True,Hakka, Wilberforce, Ontario,8,False,784,False
+Catherine Diaz,1920-07-21,Colombia,Bolivian,Filadelfia-Paraguay-Boquerón,True,Russian, Tatamagouche, Nova Scotia,2,False,11,False
+Linda Lewis,1912-03-09,Mexico,Crow Tribe of Montana,Heroica Ciudad de Tlaxiaco-Mexico-Oaxaca,True,Haitian Creole, Sainte Marie Salome, Quebec,6,False,990,True
+Mario Austin,1929-10-14,Portugal,Austrian,Kędzierzyn-Koźle-Poland-Opole Voivodeship,True,Konkani, Leader, Saskatchewan,4,True,559,True
+Meridith Gerth,1846-03-18,Mongolia,Asian,Jiuxian-China-Chongqing,True,Galician, Brocket, Alberta,1,False,568,True
+Mary Dietzel,1859-12-30,San Marino,Austrian,Baldwin Park-United States-California,True,Haryanvi, Sanmaur, Quebec,6,False,312,True
+James Rayburn,1874-01-30,Monaco,Filipino,Limonar-Cuba-Matanzas Province,True,Arabic, Saint-Donat, Quebec,1,False,190,False
+Ignacio Debroux,1907-04-03,Netherlands,Mongolian,Polavaram-India-Andhra Pradesh,True,Slovenian, Mattice, Ontario,2,True,616,True
+Rochelle Krumins,1901-10-18,Peru,Peruvian,Hunsūr-India-Karnataka,True,Haitian Creole, Parksville, British Columbia,9,False,500,True
+David Lee,1847-01-20,Paraguay,Swedish,Kurchatov-Russia-Kursk Oblast,True,Oriya, Lethbridge, Alberta,3,False,131,True
+Carol Munari,1874-08-03,Vienna,Azerbaijani,Iselin-United States-New Jersey,False,Bulgarian, Richmond, British Columbia,7,False,973,True
+Andrew Dube,1890-06-20,United States,Luiseno,Valença-Brazil-Bahia,True,Mongolian, Kitimat, British Columbia,1,False,82,True
+John Mitchell,1928-04-07,Japan,German,Kilkenny-Ireland-Leinster,True,Belarusian, Woodville, Ontario,2,True,632,True
+Keith Richmond,1912-01-07,Portugal,Black or African American,Sredneuralsk-Russia-Sverdlovsk Oblast,True,Zulu, Gainsborough, Saskatchewan,7,False,138,True
+Harriet Coleman,1866-11-16,Australia,Zimbabwean,Kalemie-Democratic Republic of the Congo-Tanganyika,True,Konkani, Snow Lake, Manitoba,1,False,967,True
+Jessica Davis,1918-09-09,Vienna,Czechoslovakian,Bruckmühl-Germany-Bavaria,True,Armenian, Coleville, Saskatchewan,2,False,284,True
+Adela Smith,1896-06-25,Japan,Chippewa,Dorbod-China-Heilongjiang,True,Akan, St-Liboire, Quebec,5,False,618,False
+Kim Evans,1892-11-08,Persia,Bulgarian,Beavercreek-United States-Ohio,True,Tamil, Weymouth, Nova Scotia,3,False,74,False
+David Thurmond,1850-06-13,Monaco,Potawatomi,Whitney-United States-Nevada,True,Mossi, Manotick, Ontario,8,False,894,True
+William Dozier,1872-08-20,Canada,Senegalese,Ayr-United Kingdom-Scotland,False,Bantu, St-Pierre-de-Wakefield, Quebec,3,False,709,True
+Gregg Pearson,1892-07-14,Albania,Egyptian,Las Torres de Cotillas-Spain-Murcia,False,Urdu, Calmar, Alberta,8,False,761,True
+Sharon Humble,1901-02-28,Bulgaria,Cameroonian,Niimi-Japan-Okayama,True,Myanmar (Burmese), Britannia Beach, British Columbia,9,False,152,True
+Mitchell Garrett,1920-10-09,Newfoundland,Osage Tribe,Santa Vitória do Palmar-Brazil-Rio Grande do Sul,False,Thai, St. John`s, Newfoundland,6,False,165,True
+Rita Mcquiston,1897-04-30,Nepal,Tunisian,Arrasate / Mondragón-Spain-Basque Country,False,Madurese, Southampton, Nova Scotia,1,False,655,False
+Nancy Bailey,1848-03-26,Siam,Potawatomi,Cajamar-Brazil-São Paulo,False,Min Nan, Maryfield, Saskatchewan,3,False,763,True
+Earl Senato,1908-07-25,Iceland,Chickasaw,Serov-Russia-Sverdlovsk Oblast,True,Creole, St-Tite-des-Caps, Quebec,9,False,879,True
+Jennifer Fagg,1853-09-12,Liberia,New Zealander,Saint-Malo-France-Brittany,False,German, Cow Head, Newfoundland,9,False,147,True
+Robert Davis,1880-03-04,Panama,South American,Gurnee-United States-Illinois,True,Shona, Hanmer, Ontario,3,True,321,True
+Warren Ross,1882-05-25,Siam,Burmese,Balapulang-Indonesia-Central Java,False,Haitian Creole, Chatsworth, Ontario,8,False,532,True
+Shirley Bailey,1900-02-04,Denmark,Japanese,Hōfu-Japan-Yamaguchi,True,Afrikaans, Chilliwack, British Columbia,1,False,437,True
+Mary Oliver,1918-04-04,Mexico,Belizean,Ryūō-Japan-Yamanashi,True,Macedonian, Comfort Cove-Newstead, Newfoundland,4,False,824,False
+Laurie Lynch,1896-09-04,Brazil,Palestinian,Bada Barabīl-India-Odisha,True,Polish, Maria, Quebec,8,True,54,True
+James Watson,1856-01-10,Venezuela,Croatian,Jhā-Jhā-India-Bihar,True,Macedonian, Ashmont, Alberta,8,False,857,False
+David Matthews,1907-11-28,Nejd and Hejaz,African,Santa Lucía-Argentina-San Juan,True,Tajik, Maple Creek, Saskatchewan,2,False,644,False
+Debra Whittington,1899-12-23,Costa Rica,Miami,Qushi-China-Yunnan,True,Uyghur, Hecla, Manitoba,9,True,947,True
+Jordan Rhodes,1861-02-07,Monaco,Jamaican,Sidhaulī-India-Uttar Pradesh,True,Quechua, St-Louis-de-France, Quebec,8,False,39,False
+Olga Doire,1909-05-28,Afghanistan,Zimbabwean,Torrevieja-Spain-Valencia,True,Haryanvi, Markstay, Ontario,7,False,713,True
+Janice Fajardo,1864-06-18,Siam,British,Wangyuan-China-Ningxia Hui Autonomous Region,False,Awadhi, Williams Lake, British Columbia,4,False,452,True
+John Standridge,1880-12-28,Guatemala,Scotch-Irish,Aschaffenburg-Germany-Bavaria,True,Bulgarian, Creston, British Columbia,1,False,101,True
+Eddie Schley,1844-12-06,Mongolia,Polish,Malacca-Malaysia-Melaka,True,Ilokano, Barwick, Ontario,5,True,295,True
+Pat Wofford,1871-01-22,Siam,Basque,Lutes Mountain-Canada-New Brunswick,True,Icelandic, St-Barthelemy, Quebec,1,False,122,False
+Maritza Ryan,1856-06-29,Liberia,American Indian,Sankt Peter-Austria-Carinthia,True,Tamil, Ashcroft, British Columbia,8,False,16,False
+Sarah Weems,1853-09-24,Czechoslovakia,Yemeni,Coburg-Australia-Victoria,False,Sinhalese, St-Albert, Quebec,4,False,450,True
+Ernest Armor,1917-02-28,Romania,American,San Juan del Río-Mexico-Querétaro,False,Mongolian, Massey Drive, Newfoundland,1,False,272,True
+Bruce Johnson,1846-07-20,Costa Rica,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,Hawarden-United Kingdom-Wales,True,Cebuano, Ste. Rose du Lac, Manitoba,1,True,662,True
+Ernest Mccarter,1923-02-04,Cuba,Portuguese,Ilagan-Philippines-Cagayan Valley,True,Estonian, Barry`s Bay, Ontario,5,False,75,False
+Thomas Smith,1876-05-26,France,Jordanian,La Unión-Colombia-Antioquia,False,Afrikaans, Port Carling, Ontario,5,True,139,True
+William Duncan,1864-05-12,Venezuela,White,Ogwashi-Uku-Nigeria-Delta,True,Arabic, Bon Accord, Alberta,4,False,546,True
+Richard Rushing,1921-04-07,Vienna,African,Ōbu-Japan-Aichi,True,Chittagonian, St-Sylvestre, Quebec,1,False,99,True
+Edwin Cherrington,1914-11-09,Greece,Peruvian,Kotabumi-Indonesia-Lampung,True,Chinese (Traditional), Churchbridge, Saskatchewan,1,False,102,True
+Michael Engler,1919-06-13,Vatican City,White in combination with one or more other races,Gela-Italy-Sicily,False,Swedish, Quill Lake, Saskatchewan,9,False,113,True
+Antonio Debusk,1926-10-28,Australia,Dutch West Indian,Dotzheim-Germany-Hesse,True,Armenian, St. John`s, Newfoundland,9,False,647,True
+Marc Curry,1862-06-22,Poland,Kurdish,Quixadá-Brazil-Ceará,True,Tamil, Lumsden, Newfoundland,7,False,599,True
+George Petch,1915-01-09,Luxembourg,Pennsylvania German,Nāndūra Buzurg-India-Maharashtra,True,Welsh, Conquest, Saskatchewan,5,False,113,True
+Jose Blake,1867-11-21,Liberia,Guatemalan,Palakkad-India-Kerala,True,Slovenian, Morris, Manitoba,6,True,737,True
+Era Terwilliger,1871-02-27,Hungary,Czech,Olteniţa-Romania-Călărași,True,Persian, L`Islet, Quebec,7,True,128,True
+Sue Atkinson,1895-01-07,Norway,North African,Jojutla-Mexico-Morelos,True,Maithili, Kanata, Ontario,9,False,571,True
+Irene Dudley,1894-06-29,Netherlands,Hispanic or Latino,Mol-Belgium-Flanders,True,Amharic, Pakenham, Ontario,1,True,373,True
+Sarah Makins,1851-08-30,Vatican City,Puerto Rican,Dikirnis-Egypt-Dakahlia,True,Irish, Joliette, Quebec,7,False,185,True
+Ronald Mayo,1914-04-17,Siam,Lumbee Indian,Pulivendla-India-Andhra Pradesh,True,Chewa, Exshaw, Alberta,8,False,77,True
+Kathleen Burke,1917-07-19,Lithuania,Dutch West Indian,Makhachkala-Russia-Dagestan,True,Galician, Woodstock, New Brunswick,2,False,638,True
+Monika Olson,1864-02-08,Persia,Bahamian,Opoczno-Poland-Łódź Voivodeship,True,Ilokano, Unionville, Ontario,6,False,462,False
+Ryan Sexton,1862-03-26,Brazil,Cabo Verdean,Tórshavn-Faroe Islands-Streymoy,False,Bengali, Bengough, Saskatchewan,5,False,118,True
+John Linn,1901-09-09,Poland,Latvian,Kafr az Zayyāt-Egypt-Gharbia,False,Mongolian, Choiceland, Saskatchewan,7,True,330,False
+Donald Toney,1887-03-22,Siam,Portuguese,Lanham-Seabrook-United States-Maryland,True,Lao, Nickel Centre, Ontario,1,False,877,True
+Phil Bower,1929-10-25,Finland,Cree,Eiguliai-Lithuania-Kaunas,False,Icelandic, Stayner, Ontario,2,False,329,False
+Thomas Lucas,1927-11-02,Belgium,Two or more races,Rāmjībanpur-India-West Bengal,False,Creole, Key Lake, Saskatchewan,3,False,140,True
+Jamie Henderson,1924-09-19,Czechoslovakia,Ecuadorian,North Valley Stream-United States-New York,True,Serbian, Wawanesa, Manitoba,8,False,597,True
+Alton Shofner,1887-11-10,Aussa,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,Highview-United States-Kentucky,True,Finnish, Cantley, Quebec,9,False,51,True
+Lorrie Gordon,1875-01-23,Iraq,Central American,Baicheng-China-Shandong,True,Chinese (Simplified), Parry Sound, Ontario,5,False,293,True
+Don Salley,1878-03-10,Latvia,Okinawan,San Martín de los Andes-Argentina-Neuquen,True,Hmong, St-Simeon, Quebec,5,False,198,True
+Max King,1912-04-04,Liechtenstein,Marshallese,Oliveira do Douro-Portugal-Porto,True,Myanmar (Burmese), Coronation, Alberta,7,False,833,False
+George Burnett,1920-03-03,Korea,Bahamian,Kālka-India-Himachal Pradesh,False,Hiligaynon, Russell, Ontario,2,False,677,True
+Brian Guitterez,1915-07-09,Nejd and Hejaz,Some other race in combination with one or more other races,Davenport-United States-Iowa,True,Sesotho, Barraute, Quebec,9,True,472,False
+Lewis Vincente,1914-05-18,Ethiopia,Honduran,Halle-Belgium-Flanders,True,Yiddish, Hazlet, Saskatchewan,3,False,873,True
+Mary Owens,1875-12-07,Italy,Romanian,Deltona-United States-Florida,True,Korean, Marystown, Newfoundland,4,False,627,True
+Margie Marroquin,1893-02-05,Vatican City,Gambian,Arkalgūd-India-Karnataka,True,Kannada, Assiniboia, Saskatchewan,8,False,176,True
+Brian Takahashi,1925-06-22,Yemen,United Houma Nation,Trappes-France-Île-de-France,False,Kazakh, River Hebert, Nova Scotia,1,True,855,True
+Bobby Powell,1878-04-23,Brazil,Zimbabwean,Dum Duma-India-Assam,True,Malayalam, Val Marie, Saskatchewan,8,False,638,True
+Marilyn Mejia,1895-07-05,Danzig,Haitian,San Lorenzo-United States-California,True,Binisaya, Centralia, Ontario,5,True,519,True
+Wayne Metcalf,1866-05-25,Tuva,Ugandan,Wanshui-China-Guizhou,True,Filipino, Whitewood, Saskatchewan,6,False,765,True
+Cheryl Frank,1854-10-01,Poland,Cree,Montemorelos-Mexico-Nuevo León,True,Armenian, New Sarepta, Alberta,1,True,896,True
+Patrick Harper,1905-09-21,Iceland,Israeli,Long Xuyên-Vietnam-An Giang,True,Hiligaynon, Durham, Ontario,1,False,408,True
+Edith Shipley,1900-08-21,Newfoundland,Argentinean,Sayansk-Russia-Irkutsk Oblast,True,Igbo, Osgoode, Ontario,1,False,210,True
+Richard Brock,1897-02-21,Brazil,Central American Indian,Bonnyrigg-United Kingdom-Scotland,True,Mossi, Wheatley, Ontario,6,True,103,True
+Joanne Rivers,1840-01-21,Australia,Nigerian,Valkeakoski-Finland-Pirkanmaa,True,Chhattisgarhi, Senneville, Quebec,7,False,466,True
+Gale Phillips,1870-10-20,Liechtenstein,Palestinian,Metro-Indonesia-Lampung,True,Malagasy, Clarenville, Newfoundland,3,False,923,True
+Jane Werner,1903-05-22,Korea,Hopi,Marquette-United States-Michigan,True,Khmer, Williams Lake, British Columbia,4,False,557,True
+Craig Eaves,1893-06-27,Estonia,Italian,Kalamariá-Greece-Central Macedonia,True,Javanese, Rycroft, Alberta,3,False,582,True
+Josephine Chapman,1874-01-29,Guatemala,Okinawan,Yamagata-Japan-Gifu,True,Jin, Marcelin, Saskatchewan,3,False,307,True
+Carlos Bencomo,1914-03-18,Dominican Republic,Crow Tribe of Montana,Kriens-Switzerland-Lucerne,True,Albanian, St-Tite-des-Caps, Quebec,6,False,971,True
+Sylvia Peterson,1906-05-23,France,Chippewa-Cree Indians of the Rocky Boy's Reservation,Miamisburg-United States-Ohio,True,Serbo-Croatian, Grande-Entree, Quebec,9,False,136,True
+Joseph Collins,1871-01-06,Iceland,Colombian,Pontefract-United Kingdom-England,False,Hindi, Kirkfield, Ontario,5,False,390,True
+Elijah Velasquez,1922-08-16,Ethiopia,Liberian,Corinto-Colombia-Cauca,True,Shona, Réserve faunique de Rimouski, Quebec,2,False,546,True
+Scott Rice,1929-01-10,Costa Rica,Saudi Arabian,Uttamapālaiyam-India-Tamil Nadu,True,Chittagonian, Port-Menier, Quebec,2,True,867,True
+Kathleen Delisle,1867-12-25,Hatay,Inupiat,Olympia-United States-Washington,True,Kirundi, Cap-Saint-Ignace, Quebec,3,False,67,True
+Carol Carbonaro,1865-11-05,Tuva,White in combination with one or more other races,George-South Africa-Western Cape,False,Myanmar (Burmese), Georgina, Ontario,8,False,112,True
+Richard Kio,1894-06-12,Korea,Lithuanian,Coyhaique-Chile-Aysén,True,Tajik, Webequie, Ontario,3,False,380,True
+Michael Murphy,1920-09-08,Yugoslavia,Tunisian,Okegawa-Japan-Saitama,True,Malay, Wabush, Newfoundland,1,False,961,True
+Terence Langevin,1910-06-27,Canada,Chippewa,Motala-Sweden-Östergötland,True,Malay, Sapawe, Ontario,9,True,776,True
+Robert Barton,1905-03-20,Argentina,Vietnamese,Banyoles-Spain-Catalonia,True,Yiddish, Hubbards, Nova Scotia,2,False,688,True
+Julius Prescott,1881-03-07,Kingdom of Egypt,Ecuadorian,Isle of Lewis-United Kingdom-Scotland,True,Lao, Dorset, Ontario,6,False,1,False
+Frank Desch,1922-08-22,Estonia,White,Tourlaville-France-Normandy,True,Polish, Alexandria, Ontario,6,False,97,True
+Tony Ruggiero,1870-10-07,Mexico,Costa Rican,Morro do Chapéu-Brazil-Bahia,True,Nepali, Eagle River, Ontario,6,False,189,False
+Ruby Egan,1877-12-24,Italy,Armenian,San Pedro de Jujuy-Argentina-Jujuy,False,Mossi, Rose Valley, Saskatchewan,4,False,743,True
+Judy Glenn,1882-01-19,Belgium,Finnish,Phalodi-India-Rajasthan,True,Shona, Cowley, Alberta,7,False,714,True
+Mary Rangel,1882-05-02,Nepal,Salvadoran,Drăgăşani-Romania-Vâlcea,True,Vietnamese, Bawlf, Alberta,3,True,466,True
+John Travis,1845-03-17,Australia,Alaska Native,Zarumilla-Peru-Tumbes,False,Swahili, Spencerville, Ontario,2,False,914,True
+Keith Malizia,1847-11-21,China,British West Indian,Eschborn-Germany-Hesse,False,Amharic, Cowley, Alberta,4,False,53,True
+Al Bedeau,1895-02-10,Norway,Chilean,Aracruz-Brazil-Espírito Santo,False,Uyghur, Sombra, Ontario,9,False,475,True
+Thomas Engstrom,1858-01-04,Venezuela,Vietnamese,Svitavy-Czechia-Pardubický,True,Lao, Sutton, Ontario,4,False,401,True
+Jack Denson,1875-02-27,Liechtenstein,White,Key West-United States-Florida,True,Urdu, Arborfield, Saskatchewan,6,False,105,True
+Jeanette Hanley,1911-05-21,Czechoslovakia,Ottawa,Sonthofen-Germany-Bavaria,True,Serbian, Sainte Brigide D`Iberville, Quebec,2,False,377,True
+Rhonda Harvey,1861-04-08,Tuva,Delaware,Tongchuan-China-Sichuan,True,Min Dong, Port Alice, British Columbia,6,False,90,True
+Courtney Grant,1848-05-13,United States,Hungarian,Łask-Poland-Łódź Voivodeship,True,Swahili, Nanton, Alberta,2,False,204,True
+Mary Cohen,1914-12-24,Romania,Oneida Tribe of Indians of Wisconsin,Calaca-Philippines-Calabarzon,False,Myanmar (Burmese), Shebandowan, Ontario,8,False,521,False
+Emily Fisher,1907-05-10,Aussa,Yemeni,Poggioreale-Italy-Campania,True,Khmer, Central Butte, Saskatchewan,5,False,154,False
+Kenneth Gutierrez,1904-08-05,Sweden,Lumbee Indian,Monsey-United States-New York,True,Cebuano, Cookstown, Ontario,3,False,812,True
+Mae Banks,1890-05-17,Mexico,Laotian,Cudahy-United States-California,True,Ilokano, Thorne, Ontario,8,False,959,True
+Carmen Tinkle,1842-05-25,Iceland,Chickasaw,Pathanāmthitta-India-Kerala,False,Latin, St-Gerard, Quebec,8,False,57,True
+Michael Daniel,1853-01-04,Japan,Black or African American in combination with one or more other races,Prairie Village-United States-Kansas,True,Turkish, Sydney, Nova Scotia,6,False,281,True
+William Howard,1883-03-20,Vatican City,Cabo Verdean,Fort Abbas-Pakistan-Punjab,True,Kirundi, Pilot Butte, Saskatchewan,6,False,840,True
+Francis Santo,1928-09-27,Italy,Norwegian,Capulhuac de Mirafuentes-Mexico-México,True,Shona, Louisbourg, Nova Scotia,5,False,678,True
+Margaret Figueroa,1858-06-07,Poland,Apache,Kabrāi-India-Uttar Pradesh,True,Javanese, Balmertown, Ontario,4,True,43,True
+Donald Hoge,1841-10-05,New Zealand,Italian,Gribanovskiy-Russia-Voronezh Oblast,True,Sinhalese, Comox, British Columbia,8,True,309,True
+Carol Vondielingen,1859-04-18,Vatican City,German,Ananindeua-Brazil-Pará,False,Marathi, Udora, Ontario,7,True,146,True
+Mary Ortiz,1899-10-20,Japan,Ethiopian,Qalansuwa-Israel-Central District,True,Irish, Leoville, Saskatchewan,1,False,252,True
+Robert Wiersteiner,1907-05-12,Costa Rica,Pakistani,Ursynów-Poland-Mazovia,True,Finnish, Grand Rapids, Manitoba,6,False,183,True
+Shirley Valdez,1895-05-20,Germany,Marshallese,East Peoria-United States-Illinois,False,Uzbek, O`Leary, Prince Edward Island,3,True,93,True
+Jeffery Miller,1916-06-16,Yugoslavia,Lebanese,Geraldton-Australia-Western Australia,True,Maithili, Cassiar, British Columbia,8,False,677,True
+James Willis,1874-09-22,China,Salvadoran,Temple Terrace-United States-Florida,True,Bengali, Merrickville, Ontario,5,False,640,True
+Heather Pippins,1857-03-22,Liberia,Native Hawaiian and other Pacific Islander,Bom Jesus da Lapa-Brazil-Bahia,True,Irish, Humphrey, Ontario,6,False,291,True
+Margaret Givens,1861-05-04,Nejd and Hejaz,Celtic,Masjed Soleymān-Iran-Khuzestan,False,Uyghur, Réserves fauniques de Matane e, Quebec,5,False,491,True
+Shirley Ramsey,1895-04-26,Belgium,Melanesian,Heiligensee-Germany-Berlin,True,Min Nan, Milverton, Ontario,4,False,933,True
+John Murphy,1913-09-12,Ethiopia,Argentinean,Lala Musa-Pakistan-Punjab,True,Madhura, Orillia, Ontario,6,False,121,True
+Anna Dinger,1860-01-04,Belgium,,Stourbridge-United Kingdom-England,False,Tagalog, Chippewas Of Sarnia First Nati, Ontario,8,False,104,True
+Charles Menden,1881-10-19,Romania,St Lucia Islander,Avtovo-Russia-St.-Petersburg,True,Saraiki, Oliver, British Columbia,1,False,554,True
+Agnes Kliebert,1858-01-31,Finland,Eastern Tribes,Huyện Lâm Hà-Vietnam-Lâm Đồng,True,Armenian, Belmont, Manitoba,4,False,406,True
+Betty Vaughn,1857-02-28,San Marino,Pakistani,Pulandian-China-Liaoning,False,Croation, Nordegg, Alberta,4,False,870,False
+Lucas Banks,1880-08-10,Vatican City,Pennsylvania German,Abū Zabad-Sudan-West Kordofan State,True,Indonesian, Grassy Narrows First Nation, Ontario,8,False,136,False
+Ramon Lopez,1866-02-14,Costa Rica,Cherokee,Sel’tso-Russia-Bryansk Oblast,True,Telugu, Arnprior, Ontario,9,True,373,True
+Howard Sheller,1843-11-15,Aussa,Brazilian,Litherland-United Kingdom-England,True,Japanese, Baltimore, Ontario,1,False,801,True
+Francisco Ballard,1924-07-23,France,Chilean,Burton upon Trent-United Kingdom-England,False,Ukrainian, Ste-Rose-du-Nord, Quebec,3,True,253,True
+Thomas Engelke,1856-09-21,Monaco,Haitian,Burlington-United States-North Carolina,True,Awadhi, St-Hippolyte, Quebec,9,True,289,True
+Jessenia Anderson,1877-06-28,Danzig,Korean,Teutônia-Brazil-Rio Grande do Sul,True,Haryanvi, Witless Bay, Newfoundland,1,False,905,True
+Carl Haug,1880-06-09,Sweden,Tlingit-Haida,Garmisch-Partenkirchen-Germany-Bavaria,True,Quechua, Duparquet, Quebec,5,False,966,True
+Ivan Steele,1861-02-01,Paraguay,Cajun,Kaiama-Nigeria-Kwara,True,Russian, Douglas, Ontario,5,False,941,False
+Sherri Dozier,1869-12-17,Chile,Togolese,Backnang-Germany-Baden-Wurttemberg,True,Hiligaynon, Barwick, Ontario,6,False,357,True
+Malcolm Russell,1843-08-19,Chile,Czechoslovakian,Sa'dah-Yemen-Şa‘dah,False,Latin, Embro, Ontario,9,False,254,True
+Julia Burdett,1913-06-15,Nepal,Choctaw,Oak Lawn-United States-Illinois,True,Telugu, Ste-Clotilde-de-Horton, Quebec,9,False,202,True
+Claire Pierce,1855-04-29,Persia,Sac and Fox,Fedorovskiy-Russia-Khanty-Mansia,True,Persian, Davis Inlet, Newfoundland,6,False,681,True
+Charles Nealey,1847-11-28,Monaco,Nigerian,Ternate-Philippines-Calabarzon,True,Albanian, Telegraph Creek, British Columbia,6,True,198,True
+Christopher Matthews,1863-09-09,Panama,Scandinavian,Staré Mesto-Slovakia-Bratislavský Kraj,True,Tajik, Saint-Côme, Quebec,5,True,693,True
+Connie Smith,1872-04-19,Japan,South American,The Woodlands-United States-Texas,True,Basque, Wasaga Beach, Ontario,6,False,758,True
+Margaret Blass,1856-07-23,United States,White in combination with one or more other races,Yany Kapu-Ukraine-Crimea,True,Quechua, Ste. Gertrude, Quebec,6,True,62,True
+Margaret Hill,1868-06-03,Liechtenstein,Tongan,Gongguan-China-Guangxi,True,Maltese, Lloydminster, Alberta,8,True,693,False
+Janie Smith,1845-12-11,Newfoundland,Bahamian,Hoskote-India-Karnataka,True,Chhattisgarhi, Powell River, British Columbia,3,False,914,True
+Amber Sommers,1848-05-22,Italy,Pennsylvania German,Orange-France-Provence-Alpes-Côte d'Azur,False,Swahili, St-Joseph-de-Beauce, Quebec,9,True,407,False
+Ann Robicheaux,1857-12-29,Australia,Eastern Tribes,Ossining-United States-New York,False,Belarusian, Riviere-Heva, Quebec,1,False,356,True
+Elizabeth Mayon,1845-02-08,Portugal,Cree,Yangshuo-China-Guangxi,False,Binisaya, Port Coquitlam, British Columbia,1,False,500,True
+Joel Arceneaux,1914-03-16,Venezuela,Sudanese,East Pensacola Heights-United States-Florida,True,Afrikaans, Big Valley, Alberta,6,False,705,True
+Virginia Hargrove,1899-12-05,China,Alaskan Athabascan,Jalesar-India-Uttar Pradesh,True,Sesotho, Port au Port West-Aguathuna-Fe, Newfoundland,6,False,271,True
+Alicia Caldwell,1858-05-24,Greece,French Canadian,Newington-United States-Connecticut,False,Marathi, Emsdale, Ontario,7,False,159,True
+Thelma Goldman,1907-08-31,Norway,Three or more races,Casula-Australia-New South Wales,True,Gan, West Lorne, Ontario,8,False,192,True
+Anthony Russell,1874-12-20,Liechtenstein,Vietnamese,Kanata-Canada-Ontario,True,Xhosa, Rocky Mountain House, Alberta,1,False,790,False
+Amy Girouard,1844-02-24,Guatemala,Latvian,Vargem Grande do Sul-Brazil-São Paulo,True,Greek, Laval des Rapides, Quebec,8,False,815,True
+Max Moreland,1867-06-08,China,Puget Sound Salish,Cannes-France-Provence-Alpes-Côte d'Azur,True,Latin, Louisdale, Nova Scotia,3,False,756,True
+Cynthia Ready,1860-03-19,Estonia,Ottawa,Monrovia-Liberia-Montserrado,True,Castilian, Dartmouth, Nova Scotia,1,True,592,True
+Jose Laughlin,1926-10-24,Japan,Aleut,Ina-Japan-Nagano,True,Esperanto, Bala, Ontario,6,False,224,True
+Alicia Barton,1887-09-24,Greece,White in combination with one or more other races,Or Akiva-Israel-Haifa,True,Dutch, Morell, Prince Edward Island,8,True,627,True
+Laurie Butcher,1912-12-19,Panama,Ukrainian,Lakewood-United States-Washington,False,Latin, Smith, Alberta,1,False,633,True
+Bernard Farruggio,1886-05-27,Nicaragua,Pueblo,Molfetta-Italy-Apulia,True,Turkish, Chauvin, Alberta,9,False,73,True
+Mamie Riess,1900-08-29,Mexico,Dutch,Cárdenas-Mexico-San Luis Potosí,True,Xhosa, Ashcroft, British Columbia,6,False,329,True
+Coletta Walls,1869-09-06,Brazil,German,Halvad-India-Gujarat,True,Bantu, Merrickville, Ontario,3,False,97,True
+Carolyn Ruiz,1875-02-15,France,Palauan,Pālkonda-India-Andhra Pradesh,True,English, Sherbrooke, Nova Scotia,3,True,246,True
+Mattie Jenks,1880-07-09,Belgium,Costa Rican,Mandāwar-India-Uttar Pradesh,False,Wu, Rumsey, Alberta,3,False,597,True
+Christopher Holmes,1878-05-01,Dominican Republic,Guamanian or Chamorro,Jinji-China-Guangxi,True,Galician, Sainte Sophie, Quebec,7,False,570,True
+Jessie Spencer,1878-03-20,Chile,Tsimshian,Greve-Denmark-Zealand,True,Chewa, Sunnyside, Newfoundland,5,False,157,True
+Christine Englander,1885-12-04,Soviet Union,Fijian,Sofrino-Russia-Moscow Oblast,True,Jin, Shipshaw, Quebec,9,False,59,True
+Patricia Carter,1916-12-24,South Africa,Vietnamese,Swindon-United Kingdom-England,True,Haitian Creole, Belleoram, Newfoundland,2,False,43,False
+Robert Mortensen,1867-08-03,United States,Portuguese,Hummelsbüttel-Germany-Hamburg,False,Uzbek, St. Raphael de Bellechasse, Quebec,9,False,711,False
+Jimmie Berg,1898-05-23,Sweden,Zimbabwean,Carmen de Viboral-Colombia-Antioquia,True,Finnish, Algoma Mills, Ontario,2,False,275,False
+Reginald Williams,1896-06-19,Chile,Eastern Tribes,Alcorcón-Spain-Madrid,False,Serbo-Croatian, Boischatel, Quebec,7,True,183,True
+Kevin Montgomery,1900-12-31,Newfoundland,Asian Indian,Patuto-Philippines-Calabarzon,True,Serbo-Croatian, Elk Lake, Ontario,7,False,212,True
+Lucille Taylor,1919-01-13,Vatican City,Potawatomi,Keshod-India-Gujarat,True,Kazakh, Saint Roch De L`Achigan, Quebec,1,True,252,True
+Maureen Nolen,1852-09-06,France,Chickasaw,Suleja-Nigeria-Niger,True,Belarusian, Notre-Dame-du-Laus, Quebec,4,True,930,False
+Pauline Lee,1902-05-20,Haiti,Miami,Khandwa-India-Madhya Pradesh,True,Bhojpuri, Makkovik, Newfoundland,5,False,636,True
+Carl Mccarthy,1860-01-15,Monaco,Pennsylvania German,Raghunathpur-India-West Bengal,True,Bosnian, Missanabie, Ontario,7,False,86,True
+Dewayne Hollander,1872-05-24,Norway,American,Douglas-United States-Illinois,True,Latvian, Caradoc First Nation, Ontario,1,False,436,True
+Wilfred Turner,1863-04-07,Dominican Republic,Albanian,Novi Sad-Serbia-Vojvodina,True,Maori, Calling Lake, Alberta,2,False,231,True
+Chet Baker,1897-04-22,Portugal,Shoshone,Tānsen-Nepal-Lumbini Province,True,Deccan, Saint Alexandre D`Iberville, Quebec,7,False,930,True
+Henry Johnston,1898-12-08,France,Spanish American Indian,Barracas-Argentina-Buenos Aires F.D.,True,Xhosa, St-Zenon, Quebec,5,False,84,True
+Edith Durrance,1847-03-09,Netherlands,Malaysian,Akhisar-Turkey-Manisa,True,Swahili, Three Hills, Alberta,4,False,207,True
+Terry Williams,1897-04-25,Persia,Seminole,Chak Azam Sahu-Pakistan-Punjab,True,Afrikaans, Hardisty, Alberta,5,False,104,True
+Melissa Salter,1878-05-03,Vatican City,South American Indian,São João da Madeira-Portugal-Aveiro,False,Kazakh, Freelton, Ontario,1,True,79,True
+Keisha Evans,1923-11-29,United States,Filipino,Barrancas-Venezuela-Barinas,True,Mossi, Hecla, Manitoba,8,False,607,False
+Geoffrey Wynn,1872-02-05,Korea,Israeli,Iizuka-Japan-Fukuoka,True,Azerbaijani, Stony Rapids, Saskatchewan,9,True,404,True
+Adrian Wild,1897-02-07,Iceland,Native Hawaiian and other Pacific Islander,Bhopalwala-Pakistan-Punjab,True,Gujariti, English Harbour East, Newfoundland,9,False,76,False
+Dorothy Martinez,1910-10-19,Honduras,South American Indian,Neiba-Dominican Republic-Baoruco,False,Filipino, Teeswater, Ontario,8,True,552,True
+Jeffrey Judy,1923-11-18,Bolivia,Australian,Altena-Germany-North Rhine-Westphalia,True,Hungarian, Bath, Ontario,5,False,237,True
+Matthew Martinez,1844-10-10,Siam,United Houma Nation,Nyagan-Russia-Khanty-Mansia,True,Yiddish, Edam, Saskatchewan,7,False,20,False
+Ginger Fraser,1891-04-20,Czechoslovakia,Belarusian,Kediri-Indonesia-East Java,True,Filipino, Sexsmith, Alberta,8,True,707,True
+Paula Bond,1912-11-08,New Zealand,Senegalese,Kundgol-India-Karnataka,True,Serbian, Donnacona, Quebec,9,False,782,True
+Michael Grant,1924-01-03,Canada,Greek,Saint-Laurent-du-Var-France-Provence-Alpes-Côte d'Azur,True,Norwegian, Woodville, Ontario,6,False,296,True
+John Wilson,1893-04-20,Belgium,Italian,Ālangulam-India-Tamil Nadu,True,Fula, Spencerville, Ontario,8,True,309,True
+Grover Davidson,1840-11-06,Persia,Iroquois,Vittorio Veneto-Italy-Veneto,True,Magahi, Welsford, New Brunswick,1,False,403,False
+Charles Lomax,1912-05-08,United States,Turkish,Rānikhet-India-Uttarakhand,True,Punjabi, St-Flavien, Quebec,1,False,76,True
+Ida Rosa,1886-10-10,Switzerland,American Indian and Alaska Native in combination with one or more other races,Nagar-India-Rajasthan,False,Indonesian, Midway, British Columbia,4,False,786,True
+Jeffrey Armstrong,1903-01-06,Tuva,Asian Indian,Akyazı-Turkey-Sakarya,False,Japanese, St. Martin de Beauce, Quebec,8,True,922,True
+Betty Schwartz,1886-01-21,Tuva,Zimbabwean,Qinglian-China-Chongqing,True,Serbo-Croatian, Glenboro, Manitoba,4,False,989,True
+Walter Wallace,1885-02-19,Peru,Guatemalan,Dodge City-United States-Kansas,False,Jin, Wiseton, Saskatchewan,1,False,566,True
+Sadie Johnson,1872-11-17,Argentina,Sioux,Pandak-Indonesia-Yogyakarta,True,Japanese, Shannonville, Ontario,2,True,33,False
+Julia Gonzales,1851-01-24,Peru,Black or African American in combination with one or more other races,Rockland-United States-Massachusetts,True,Chichewa, Peachland, British Columbia,6,False,410,True
+Linda Whorton,1929-07-23,Vatican City,Norwegian,La Tirana-Chile-Tarapacá,True,Kirundi, Matagami, Quebec,1,False,631,False
+Vickie Kight,1856-07-06,Colombia,Yugoslavian,Rio Linda-United States-California,False,Sundanese, Stony Rapids, Saskatchewan,1,True,344,True
+Richard Shewmaker,1881-06-10,Norway,Sudanese,Utsunomiya-Japan-Tochigi,True,Wu, Bonaventure, Quebec,9,False,945,False
+Melvin Kilgore,1926-01-27,Sweden,Bolivian,Concord-United States-North Carolina,False,Shona, Palgrave, Ontario,7,False,514,True
+David Kelly,1879-07-04,Nicaragua,Maltese,Sāyla-India-Gujarat,True,Armenian, Calabogie, Ontario,4,False,224,True
+Sylvia Lawrence,1920-02-12,Albania,White in combination with one or more other races,Dalaman-Turkey-Muğla,True,Min Dong, Brownvale, Alberta,1,False,107,False
+Mary Mathews,1906-11-16,Mongolia,Some other race,Isernia-Italy-Molise,True,Farsi, Maniwaki, Quebec,8,True,703,True
+Elsie Wilson,1885-06-03,Lithuania,Native Hawaiian and other Pacific Islander in combination with one or more other races,Pārdi-India-Gujarat,True,Danish, Paradise River, Newfoundland,9,True,632,False
+Christopher Troise,1846-12-17,France,Antiguan and Barbudan,Maputo-Mozambique-Maputo City,True,Madurese, Nephton, Ontario,6,False,479,True
+Carol Bruno,1916-12-26,France,Black or African American in combination with one or more other races,Puerto Colombia-Colombia-Atlántico,True,Swedish, Pont-Rouge, Quebec,1,False,404,True
+Joseph Isenberg,1894-11-14,Haiti,Chumash,Podujeva-Kosovo-Pristina,True,Ukrainian, Les Boules, Quebec,1,False,965,True
+Jennifer Mccarthy,1896-01-30,Switzerland,Bhutanese,Naujoji Vilnia-Lithuania-Vilnius,True,Hmong, Pine River, Manitoba,2,True,324,True
+Lawrence Barrows,1911-08-29,Peru,Okinawan,Srīsailain-India-Andhra Pradesh,False,Somali, La Romaine, Quebec,7,False,939,True
+Eric Miles,1854-10-02,Ireland,Slovak,São José do Rio Pardo-Brazil-São Paulo,True,Indonesian, Barons, Alberta,3,False,506,True
+Mary Miller,1874-06-15,Bulgaria,Oneida Tribe of Indians of Wisconsin,Eupen-Belgium-Wallonia,True,, Port Mouton, Nova Scotia,8,False,983,True
+Peter Mack,1907-01-24,Romania,Some other race,Park Forest-United States-Illinois,False,Cebuano, Galiano Island, British Columbia,5,False,754,True
+Larry Smith,1843-03-04,Netherlands,White in combination with one or more other races,Parbatipur-Bangladesh-Rangpur Division,True,Tagalog, Easterville, Manitoba,1,False,655,True
+Richard Field,1866-11-09,Honduras,West Indian,Khorramshahr-Iran-Khuzestan,True,Korean, Noelville, Ontario,9,False,216,False
+Bruce Barr,1862-03-26,Honduras,Venezuelan,Carshalton-United Kingdom-England,True,Punjabi, L`Ange-Gardien, Quebec,8,False,446,True
+Leonard Zaragoza,1873-03-28,Aussa,Osage Tribe,Raebareli-India-Uttar Pradesh,True,Kazakh, Beachville, Ontario,6,False,135,False
+Melinda Marciniak,1884-05-15,Luxembourg,Dutch West Indian,Meridian-United States-Mississippi,True,Xiang, Yorkton, Saskatchewan,8,True,312,True
+Cesar Mcdaniel,1929-06-01,Sweden,Belarusian,Tanabi-Brazil-São Paulo,True,Chinese (Simplified), Brighton, Ontario,4,False,949,True
+Hugh Walker,1896-06-14,United States,Eastern Tribes,Avon-France-Île-de-France,True,Amharic, Merigomish, Nova Scotia,3,False,91,True
+Debbie Policare,1861-01-03,Liberia,Libyan,Huaicheng-China-Guangdong,False,Castilian, Whycocomagh, Nova Scotia,9,False,873,True
+Irving Farry,1881-02-12,Lithuania,Senegalese,Izunokuni-Japan-Shizuoka,False,Zhuang, Whale Cove, Nunavut,8,False,746,True
+Larry Branscomb,1889-07-23,Nicaragua,Assyrian/Chaldean/Syriac,Magway-Myanmar-Magway,True,Macedonian, Keene, Ontario,9,False,980,True
+Gail Arneson,1879-12-06,Denmark,Uzbek,Punalūr-India-Kerala,True,Castilian, St-Gregoire-de-Greenlay, Quebec,2,False,968,True
+Leslie Trudell,1907-01-17,San Marino,Georgian,Coronel Fabriciano-Brazil-Minas Gerais,True,Filipino, Lac-des-Ecorces, Quebec,8,False,836,True
+Mildred Harriman,1885-05-05,Lithuania,Ecuadorian,Baturaden-Indonesia-Central Java,True,Xiang, Compton, Quebec,6,False,301,True
+Margie Adams,1848-08-03,Netherlands,Portuguese,Tank-Pakistan-Khyber Pakhtunkhwa,False,Min Nan, Ocean Falls, British Columbia,2,False,254,True
+Shirley Jones,1850-08-22,Iraq,Native Hawaiian and other Pacific Islander,Deutz-Germany-North Rhine-Westphalia,True,Sindhi, Notre Dame des Laurentides, Quebec,3,True,436,True
+Judith Henley,1881-11-12,Bulgaria,Austrian,Bobo-Dioulasso-Burkina Faso-Hauts-Bassins,True,Yiddish, Foremost, Alberta,9,False,86,True
+Gilda Shaffer,1879-05-31,Monaco,German Russian,El Fahs-Tunisia-Zaghouan Governorate,True,Haryanvi, Sibbald, Alberta,3,False,839,True
+Robert Oleary,1914-01-25,Honduras,Micronesian,Port Arthur-United States-Texas,True,Burmese, Puce, Ontario,6,False,175,True
+Jordan Mctiernan,1870-12-01,United States,Menominee Indian,Barranquilla-Colombia-Atlántico,True,Malay, Little Catalina, Newfoundland,5,False,869,True
+Amy Reyes,1887-01-11,South Africa,Arapaho,Alcobendas-Spain-Madrid,True,Arabic, Theodore, Saskatchewan,9,True,259,False
+William Hodge,1895-03-01,United Kingdom,Tohono O'Odham,San Vicente de Cañete-Peru-Lima region,True,Swahili, Triton, Newfoundland,3,False,25,False
+Horace Hor,1922-04-17,Peru,Palauan,Idkū-Egypt-Beheira,False,Serbo-Croatian, Desbarats, Ontario,8,False,237,True
+Jose Parks,1871-12-28,Sweden,Creek,Kunduz-Afghanistan-Kunduz,False,Sinhalese, Mica Creek, British Columbia,3,False,514,True
+Billy Mesa,1918-01-03,Portugal,Shoshone,Los Puertos de Altagracia-Venezuela-Zulia,True,Arabic, Port Elgin, Ontario,8,False,155,True
+Peter Baker,1857-01-31,Korea,Honduran,Matsudo-Japan-Chiba,True,Gujariti, Huntingdon, Quebec,3,False,259,True
+Michelle Sanders,1904-08-22,Korea,Iraqi,Bāruni-India-Bihar,True,Sylheti, Port Hardy, British Columbia,9,False,958,False
+Jason Katt,1899-10-29,China,South American,Cockeysville-United States-Maryland,True,Chewa, Deer Lake, Ontario,7,False,793,True
+Dale King,1907-01-04,Cuba,Mexican American Indian,Zhuanghe-China-Liaoning,True,Greek, Wabowden, Manitoba,9,False,691,True
+Madge King,1909-09-03,New Zealand,Australian,Joplin-United States-Missouri,True,Albanian, Tumbler Ridge, British Columbia,4,False,963,True
+Valentine Trier,1900-09-30,Vatican City,Zimbabwean,Zabīd-Yemen-Al Hudaydah,True,Danish, Strathroy, Ontario,3,False,766,True
+Kay Ostrye,1912-06-09,Iraq,Confederated Tribes and Bands of the Yakama Nation,Puerto Eldorado-Argentina-Misiones,True,Oromo, Otterville, Ontario,9,True,83,True
+Donna Lopez,1866-11-07,Albania,Seminole,Canicattì-Italy-Sicily,True,Afrikaans, St-Emile-de-Suffolk, Quebec,2,True,201,True
+Nicole Sterling,1867-12-11,Lithuania,European,Tacheng-China-Xinjiang,True,Malayalam, Vancouver, British Columbia,6,False,989,True
+Dorothy Newell,1910-01-11,Hatay,Asian Indian,Stuttgart Mühlhausen-Germany-Baden-Wurttemberg,False,Hmong, St-Roch-de-Mekinac, Quebec,8,False,332,True
+Terese Nichols,1863-01-14,Newfoundland,Alaska Native,Roșiorii de Vede-Romania-Teleorman,True,Korean, Leamington, Ontario,4,False,662,False
+Linda Nelson,1883-06-12,Liechtenstein,Yuman,Athlone-Ireland-Leinster,True,Dhundhari, Wapella, Saskatchewan,5,False,140,True
+Jospeh Merritt,1875-02-11,Colombia,Sudanese,Istok-Kosovo-Pec,True,Turkish, St-Barnabe, Quebec,6,False,906,True
+Brian Bingler,1858-05-28,Tuva,Cuban,Ormskirk-United Kingdom-England,True,Deccan, Vaughan, Ontario,3,False,626,False
+Charles Ingram,1905-03-17,Hatay,St Lucia Islander,Niagara-on-the-Lake-Canada-Ontario,True,Bangla, Snow Lake, Manitoba,7,False,268,True
+Kelly Carney,1887-04-26,Switzerland,Nicaraguan,Anniston-United States-Alabama,True,Chichewa, Alexis Creek, British Columbia,8,False,786,False
+Mark Cone,1845-02-23,New Zealand,Miami,Mülheim-Germany-North Rhine-Westphalia,True,Macedonian, Ste-Henedine, Quebec,8,True,972,True
+Mary Banderas,1919-01-22,Peru,Shawnee,Érd-Hungary-Pest,True,Tamil, Glenboro, Manitoba,6,False,454,True
+Jacob Masciantonio,1852-04-21,Italy,Comanche Nation,Albany-United States-Oregon,True,Hiligaynon, McAdam, New Brunswick,6,False,333,True
+Thomas Tate,1913-01-29,Soviet Union,Black or African American,Menden-Germany-North Rhine-Westphalia,True,Italian, Cap-de-la-Madeleine, Quebec,5,True,807,True
+Margie Wilcox,1891-11-22,Panama,Ecuadorian,Kalabagh-Pakistan-Punjab,True,Persian, Norman`s Cove-Long Cove, Newfoundland,8,False,615,True
+Rita Battle,1910-11-01,Nejd and Hejaz,Delaware,Boû Arfa-Algeria-Blida,True,Xiang, Salmon Cove, Newfoundland,6,False,889,True
+Martha Allen,1844-10-25,Vienna,Paraguayan,Khātra-India-West Bengal,False,Slovak, Camlachie, Ontario,6,False,227,True
+Gloria Bryant,1886-12-01,Venezuela,Ottawa,Luanda-Angola-Luanda,True,Hausa, Chesley, Ontario,9,False,23,True
+Delisa Mcconnell,1855-11-13,Australia,Eastern Tribes,Seoni Mālwa-India-Madhya Pradesh,True,Chhattisgarhi, Laurentides, Quebec,7,True,423,True
+Roy Cumberbatch,1916-12-26,Estonia,Black or African American in combination with one or more other races,Río Chico-Venezuela-Miranda,True,Basque, North Vancouver, British Columbia,8,True,679,True
+James Coffey,1903-06-06,Italy,Ukrainian,Suār-India-Uttar Pradesh,False,Croation, Baysville, Ontario,7,False,21,False
+Robert Hillin,1895-07-10,San Marino,Senegalese,Kilkís-Greece-Central Macedonia,False,Min Nan, Pubnico, Nova Scotia,5,False,307,True
+Berry Sivak,1873-02-13,Panama,Eastern Tribes,Contramaestre-Cuba-Santiago de Cuba,True,Min Nan, Invermere, British Columbia,1,False,996,False
+Ronald Robinson,1842-11-21,Nicaragua,New Zealander,Dublin-United States-Ohio,True,Turkish, Cadomin, Alberta,8,False,56,True
+Erika Lewis,1857-09-05,Iceland,Native Hawaiian and other Pacific Islander,Bloomfield-United States-New Jersey,True,Spanish, Fisherville, Ontario,2,False,185,True
+Timothy Antrikin,1869-12-21,Bolivia,Swedish,Sāhibganj-India-Jharkhand,True,Norwegian, Peguis, Manitoba,5,True,649,False
+Kathleen Fontaine,1859-09-09,Ireland,Chippewa,Goleta-United States-California,True,Dhundhari, Peribonka, Quebec,9,False,785,True
+Elizabeth Peachey,1867-09-04,United Kingdom,Israeli,Walnut Creek-United States-California,True,Slovak, Lorrainville, Quebec,7,False,536,True
+Christina Kittelson,1867-05-26,Nepal,Yugoslavian,Pontevedra-Spain-Galicia,True,, Hawkesbury, Ontario,8,False,622,True
+William Keeney,1905-05-31,Hungary,Spaniard,Lima-United States-Ohio,True,Zhuang, Westville, Nova Scotia,9,False,313,True
+Jean Reynolds,1869-01-02,Romania,Native Hawaiian and other Pacific Islander in combination with one or more other races,Chinú-Colombia-Córdoba,True,Haryanvi, Strome, Alberta,3,False,882,True
+Scott Novak,1924-10-09,Australia,North African,Tynda-Russia-Amur Oblast,True,Dari Persian, Prescott, Ontario,5,False,453,False
+Kesha Rogers,1876-10-16,Chile,Dutch,Lintan Chengguanzhen-China-Gansu,True,Lao, St-Rene-de-Matane, Quebec,4,False,306,True
+Fay Mosser,1864-03-01,Guatemala,Luiseno,Krymsk-Russia-Krasnodar Krai,False,Sesotho, Argyle, Nova Scotia,3,False,162,True
+Susan Trautman,1885-03-18,Paraguay,Swiss,Tacuarembó-Uruguay-Tacuarembó Department,False,Gujariti, Preston, Ontario,7,False,225,True
+Tabatha Slay,1924-06-18,South Africa,Dominican,Kulittalai-India-Tamil Nadu,True,Amharic, Goulais River, Ontario,3,False,983,True
+Richard Runyan,1860-01-28,Finland,Delaware,Mount Vernon-United States-Washington,True,Serbian, Stewiacke, Nova Scotia,4,True,936,True
+Caryn Terry,1862-11-04,United Kingdom,Dominican,Cleveland Heights-United States-Ohio,True,Urdu, Prince Albert, Saskatchewan,9,False,377,True
+Wilmer Manzo,1873-11-02,Romania,American Indian and Alaska Native,Gusev-Russia-Kaliningrad Oblast,True,Sundanese, Dashwood, Ontario,6,True,899,True
+Veronica Cotton,1874-10-14,Peru,Micmac,Rolling Meadows-United States-Illinois,True,Sylheti, Parson, British Columbia,8,False,911,False
+Alex Dobiesz,1902-08-16,Kingdom of Egypt,Estonian,Leigh-United Kingdom-England,True,Icelandic, Donnelly, Alberta,5,False,18,True
+Walter Kelsheimer,1852-10-16,Albania,Albanian,Negotino-North Macedonia-Negotino,True,Icelandic, Burstall, Saskatchewan,6,False,662,False
+Marcus Mooney,1895-01-06,Switzerland,Palauan,Mayfield Heights-United States-Ohio,True,Javanese, L`Ancienne-Lorette, Quebec,3,False,436,True
+Georgetta Ring,1894-03-11,Nepal,British West Indian,‘Aţārūt-Palestinian Territory-West Bank,True,Nepali, Le Bic, Quebec,1,False,957,True
+Mercedes Fairbanks,1868-10-20,Soviet Union,American Indian and Alaska Native in combination with one or more other races,Hazel Grove-United Kingdom-England,True,Hungarian, Baltimore, Ontario,8,False,898,True
+John Jones,1846-04-03,Poland,French Canadian,Villafranca di Verona-Italy-Veneto,True,Marwari, Montreal - Est, Quebec,2,False,544,True
+Gloria Jenkins,1867-07-15,Chile,Miami,Fryazino-Russia-Moscow Oblast,True,Uzbek, Pointe-Calumet, Quebec,2,False,716,True
+Lacie Bell,1858-09-13,Albania,Panamanian,Liwonde-Malawi-Southern Region,False,Zulu, Coniston, Ontario,6,False,926,True
+Robert Lukasiewicz,1927-07-25,Paraguay,Portuguese,Hempstead-United States-New York,False,Swahili, Trail, British Columbia,9,False,427,False
+Wendy Corkins,1914-03-02,Siam,British,Texas City-United States-Texas,True,Xhosa, Uniondale, Ontario,8,False,932,True
+James Gough,1881-01-09,Persia,Czechoslovakian,Nailsea-United Kingdom-England,True,Dutch, Somerset, Manitoba,5,False,558,True
+Tammy Helmy,1894-02-21,Sweden,Nigerian,Malingshan-China-Jiangsu,False,Croation, Taylor, British Columbia,6,False,372,True
+Beverly Stricklin,1860-01-03,El Salvador,Fijian,Yokohama-Japan-Kanagawa,True,Portuguese, Sainte Therese De Blainville, Quebec,7,False,166,True
+Kelly Love,1900-06-13,Chile,Apache,Balcarce-Argentina-Buenos Aires,True,Bantu, Vermilion Bay, Ontario,9,False,952,True
+Dolores Walsh,1889-02-15,Portugal,Seminole,Salé Al Jadida-Morocco-Rabat-Salé-Kénitra,True,Mossi, Sainte Therese De Blainville, Quebec,6,False,792,False
+Donna Pawlak,1856-02-24,Norway,Azerbaijani,Encinitas-United States-California,True,English, Triton, Newfoundland,8,False,545,True
+Sonya Sewell,1857-07-23,Yemen,Syrian,Winder-United States-Georgia,True,Icelandic, Lac Seul First Nation, Ontario,1,False,806,True
+Heidi Stein,1889-09-10,Monaco,Congolese,Falāvarjān-Iran-Isfahan,True,Madurese, Cap-de-la-Madeleine, Quebec,5,False,399,True
+Crystal Miller,1908-01-18,Denmark,Honduran,Kenmore-United States-New York,True,Macedonian, Fox Creek, Alberta,3,False,383,False
+Teena Prado,1916-10-02,Latvia,Marshallese,Mevasseret Tsiyyon-Israel-Jerusalem,False,Japanese, Isle aux Morts, Newfoundland,1,False,485,True
+Margy Howard,1854-08-14,Colombia,St. Vincent and Grenadine Islander,Urdaneta-Philippines-Ilocos,True,Irish, St-Jerome, Quebec,2,False,910,True
+Lisa Rico,1901-03-27,France,Arab/Arabic,Las Cabezas de San Juan-Spain-Andalusia,True,Burmese, Fort Albany, Ontario,8,False,699,True
+Julio Stevens,1895-11-04,Belgium,Lebanese,Khandela-India-Rajasthan,True,Czech, Jockvale, Ontario,1,True,248,True
+Frank Ingle,1879-03-22,Greece,Eastern Tribes,Blackburn-United Kingdom-England,False,Portuguese, Stanstead, Quebec,5,False,946,False
+Ernie Matthews,1893-04-20,Afghanistan,Colombian,Saharsa-India-Bihar,True,Azerbaijani, Cochrane, Alberta,4,False,16,False
+Sadie Martinez,1875-11-05,Cuba,Assiniboine Sioux,Bear-United States-Delaware,False,Kinyarwanda, New Dayton, Alberta,8,False,554,True
+Myrl Wilson,1895-05-22,Poland,Melanesian,Hövsan-Azerbaijan-Baki,True,Bengali, Stoughton, Saskatchewan,2,False,158,True
+Ernestina Conrad,1909-12-24,Portugal,Aleut,Unterkrozingen-Germany-Baden-Wurttemberg,True,Norwegian, Standard, Alberta,5,True,491,False
+Philip Davis,1901-01-02,Kingdom of Egypt,St. Vincent and Grenadine Islander,Axum-Ethiopia-Tigray,True,Dutch, Chisasibi, Quebec,7,False,174,True
+Norberto Richardson,1881-02-23,Albania,Paiute,Estero-United States-Florida,True,Hmong, Fenelon Falls, Ontario,3,False,562,True
+Steven Garmany,1898-09-04,Albania,Scottish,Uşak-Turkey-Uşak,True,Shona, Eastmain, Quebec,4,True,785,True
+Barbara Andrews,1893-09-06,Czechoslovakia,British,Bungu-Tanzania-Pwani,True,Serbo-Croatian, Riviere-au-Renard, Quebec,6,False,617,False
+Anthony Diego,1878-12-18,Vienna,American,Safed-Israel-Northern District,True,Cebuano, St-Leon-le-Grand, Quebec,1,False,739,True
+Geraldine Keller,1902-07-31,Soviet Union,Spaniard,Ambāla-India-Haryana,True,Danish, Daysland, Alberta,1,False,610,True
+Junior White,1861-03-31,Venezuela,Cajun,Slawi-Indonesia-Central Java,True,Uzbek, Cambridge, Ontario,1,True,299,True
+Mark Fenton,1844-10-23,Poland,Moroccan,Chistopol’-Russia-Tatarstan Republic,True,Danish, Orillia, Ontario,2,False,697,True
+Bryan Dombrowski,1926-10-08,Switzerland,Pennsylvania German,Kranj-Slovenia-Kranj,False,Vietnamese, Nimpo Lake, British Columbia,4,True,995,True
+Alfredo Downes,1913-09-05,Nepal,Thai,Hisai-motomachi-Japan-Mie,True,Magahi, Plumas, Manitoba,5,False,514,False
+Mary Chapman,1873-04-24,Vienna,Austrian,Puji-China-Shandong,False,Binisaya, St-Bruno-de-Montarville, Quebec,2,False,324,True
+Warren Williams,1887-04-09,Hungary,Slovene,Olesa de Montserrat-Spain-Catalonia,True,Filipino, Lachenaie, Quebec,3,True,525,True
+Milagros Yost,1888-04-26,Germany,Macedonian,Puerto Escondido-Mexico-Oaxaca,True,Deccan, McBride, British Columbia,9,False,880,True
+Iva Adams,1917-03-31,Monaco,Guatemalan,Kampong Thom-Cambodia-Kampong Thom,True,Polish, Conklin, Alberta,6,True,447,True
+Douglas Stevens,1853-04-03,Liechtenstein,Algerian,Colima-Costa Rica-San José,True,Balochi, Nanaimo, British Columbia,2,False,802,True
+Carroll Conley,1876-10-17,Haiti,Yup'ik,North Druid Hills-United States-Georgia,True,Deccan, Woodstock, Ontario,7,False,943,True
+Kenneth Cook,1842-06-21,Portugal,Lumbee Indian,Karviná-Czechia-Moravskoslezský,True,Afrikaans, O`Leary, Prince Edward Island,8,False,133,False
+Mary John,1897-06-26,Vatican City,Cajun,Oss-Netherlands-North Brabant,False,Punjabi, Maryfield, Saskatchewan,3,False,46,False
+Christopher Frasier,1887-07-19,Argentina,Romani,Piatra Neamţ-Romania-Neamț,True,Uzbek, New Hamburg, Ontario,6,False,937,True
+Beverly Lu,1919-10-22,France,Czech,Gilching-Germany-Bavaria,True,Marathi, Colliers, Newfoundland,1,False,763,False
+Michael Podmore,1848-03-09,Portugal,Uzbek,Hermosa Beach-United States-California,True,Portuguese, Lebel-sur-Quevillon, Quebec,2,False,116,False
+Daniel Marr,1848-09-11,Newfoundland,Puerto Rican,Erechim-Brazil-Rio Grande do Sul,True,Mongolian, Vaughan, Ontario,8,True,59,True
+Sally Fennell,1903-03-15,El Salvador,Micronesian,Bilgrām-India-Uttar Pradesh,False,Akan, Alert Bay, British Columbia,6,False,293,True
+Vernice Boser,1842-11-02,Australia,Estonian,Seabra-Brazil-Bahia,True,Albanian, Port Maitland, Nova Scotia,2,True,931,True
+Loretta Orr,1863-09-29,Liechtenstein,Middle Eastern,Gola Gokarannāth-India-Uttar Pradesh,True,Konkani, Wapella, Saskatchewan,6,True,667,True
+Dorothy Harpster,1905-07-29,Ireland,Congolese,Singojuruh-Indonesia-East Java,True,Zulu, Elk Point, Alberta,3,False,381,False
+Frances Key,1915-04-07,Panama,Cuban,Arandas-Mexico-Jalisco,False,Haryanvi, South River, Newfoundland,2,False,152,False
+Alyce Adams,1902-06-02,Persia,German,Kuqa-China-Xinjiang,False,Bangla, Baie-St-Paul, Quebec,3,False,845,True
+Johnny Whitten,1912-09-04,Ethiopia,Aleut,Sant'Antimo-Italy-Campania,False,Min Dong, Valemount, British Columbia,2,False,483,True
+Richard Beard,1855-08-09,Peru,Israeli,Cervia-Italy-Emilia-Romagna,True,Akan, Shoal Lake, Manitoba,7,False,592,True
+Elva Schaeffer,1892-12-30,Paraguay,Apache,Serrana-Brazil-São Paulo,True,Croation, Patuanak, Saskatchewan,4,False,487,True
+Ester Peters,1855-02-26,China,Ottawa,Paranaque City-Philippines-Metro Manila,True,Greek, Rock Creek, British Columbia,9,False,428,False
+Marc Roberts,1899-12-06,Colombia,Potawatomi,Ariccia-Italy-Lazio,True,Saraiki, Conquest, Saskatchewan,5,False,27,False
+Kevin Bertrand,1921-03-20,Canada,Guyanese,Kharagpur-India-West Bengal,True,Telugu, Sacre Coeur, Quebec,9,False,138,True
+Kenneth Ruybal,1926-01-16,Nicaragua,Shawnee,São João de Meriti-Brazil-Rio de Janeiro,False,Chinese (Traditional), Prelate, Saskatchewan,8,False,769,True
+Mary Nickson,1908-06-01,Bulgaria,American Indian and Alaska Native in combination with one or more other races,Lubny-Ukraine-Poltava,True,Sinhalese, Daniel`s Harbour, Newfoundland,9,False,888,False
+Kenneth Lavin,1927-04-28,United States,Russian,Culemborg-Netherlands-Gelderland,True,Japanese, Telkwa, British Columbia,3,False,750,True
+Michael Howington,1886-10-23,Australia,Central American,Hoogvliet-Netherlands-South Holland,False,Danish, Cobourg, Ontario,7,False,297,False
+Jimmy Lively,1905-10-30,Mongolia,Venezuelan,New Castle-United States-Pennsylvania,False,Latvian, Grande Prairie, Alberta,7,False,753,True
+Robert Robbins,1878-02-09,Monaco,Saudi Arabian,Shiroi-Japan-Chiba,True,Bantu, Foam Lake, Saskatchewan,3,False,561,True
+Garrett Kelley,1892-04-10,Iceland,Celtic,Kohtla-Järve-Estonia-Ida-Virumaa,True,Russian, Mattawa, Ontario,5,False,77,False
+Barbara Stogner,1846-10-06,New Zealand,Bolivian,Béoumi-Ivory Coast-Vallée du Bandama,True,Czech, Ormstown, Quebec,7,False,788,False
+Susan Fair,1892-08-19,Paraguay,Alsatian,Mbala-Zambia-Northern,True,Min Dong, Crawford Bay, British Columbia,9,False,71,True
+Eva Wright,1906-07-31,Finland,Arab/Arabic,Glendora-United States-California,True,Creole, Scotland, Ontario,7,True,88,True
+Anthony Dunaway,1901-02-17,Ireland,Lumbee Indian,Columbus-United States-Ohio,False,Madurese, Alvinston, Ontario,3,False,63,True
+Karina Bannon,1868-02-20,Liberia,Uruguayan,Givatayim-Israel-Tel Aviv,True,Bulgarian, Snowflake, Manitoba,8,False,406,True
+Erin Hernandez,1892-01-21,Monaco,Luxemburger,Yongkang-Taiwan-Taiwan,False,Khmer, La Dore, Quebec,1,False,572,True
+John Novak,1898-04-08,Monaco,Ethiopian,Al Miqdādīyah-Iraq-Diyālá,False,Azerbaijani, Manouane, Quebec,8,True,534,True
+Gilberto Foster,1883-05-15,Honduras,Fijian,Bloomfield-United States-New Jersey,True,Castilian, Two Hills, Alberta,2,True,180,True
+Wilson Thompson,1926-12-23,Colombia,Some other race,Travnik-Bosnia and Herzegovina-Federation of B&H,True,Afrikaans, St-Ulric, Quebec,4,False,777,False
+Maxine West,1897-08-28,Czechoslovakia,Nepalese,Riobamba-Ecuador-Chimborazo,True,Javanese, Robb, Alberta,2,False,666,True
+Beverly Arnaud,1897-05-07,Kingdom of Egypt,Macedonian,Sarzedo-Brazil-Minas Gerais,True,Hungarian, Cocagne, New Brunswick,6,False,898,False
+Randell Espinoza,1898-03-26,Turkey,Yuman,Tekāri-India-Bihar,True,Belorussian, New Aiyansh, British Columbia,7,True,240,False
+Candy Creasey,1867-10-05,Italy,Finnish,Jiawang-China-Jiangsu,False,Spanish, Stukely-Sud, Quebec,7,False,408,True
+Michelle Hurtado,1929-10-25,Belgium,Shoshone,Yehud-Monosson-Israel-Tel Aviv,True,Castilian, St-Paul-d`Abbotsford, Quebec,9,False,597,True
+Brian Finnegan,1902-07-24,Liberia,Yemeni,South Burlington-United States-Vermont,True,Bangla, Nelson, British Columbia,3,True,266,True
+Heath Baker,1842-09-18,Aussa,Pueblo,Jūrmala-Latvia-Jūrmala,False,English, Donalda, Alberta,7,True,484,True
+Letitia Morris,1921-09-21,Danzig,St. Vincent and Grenadine Islander,Banes-Cuba-Holguín Province,True,Chichewa, Halifax, Nova Scotia,9,False,378,True
+Mary Lowe,1912-07-10,Mongolia,West Indian,Jidong-China-Heilongjiang,True,Hungarian, Luskville, Quebec,4,False,814,False
+Kristin Diana,1917-06-22,Dominican Republic,Celtic,Baruta-Venezuela-Miranda,False,Basque, Gabriola, British Columbia,1,False,229,False
+Daniel Gorman,1887-03-28,Portugal,Spaniard,Delano-United States-California,True,Chittagonian, Westport, Newfoundland,9,False,482,True
+Tom Barros,1871-04-27,Italy,South American,Kornwestheim-Germany-Baden-Wurttemberg,True,Russian, Quyon, Quebec,7,False,374,True
+Douglas Martinie,1908-08-16,Dominican Republic,Subsaharan African,Galapa-Colombia-Atlántico,True,English, Saint Roch De Richelieu, Quebec,1,True,570,False
+James Sutherland,1844-02-11,Yemen,Hopi,Ladyzhyn-Ukraine-Vinnytsia,True,Polish, Saint Alexandre D`Iberville, Quebec,5,False,406,True
+Bob Leonard,1903-08-27,Colombia,Fijian,Van Nest-United States-New York,True,Uyghur, Shedden, Ontario,1,False,494,False
+Kenneth Desposito,1852-07-01,Kingdom of Egypt,Iroquois,Genet-Ethiopia-Oromiya,True,Igbo, Yahk, British Columbia,7,False,316,True
+Jeffrey Prehn,1880-06-22,Siam,Liberian,Gò Công-Vietnam-Tiền Giang,True,Haitian Creole, Derwent, Alberta,5,False,4,False
+Tabitha Ritter,1851-10-29,Hungary,Confederated Tribes and Bands of the Yakama Nation,Ludvika-Sweden-Dalarna,True,English, Wadena, Saskatchewan,4,False,499,True
+Mary Blanton,1889-07-13,Mongolia,Costa Rican,Liuzhi-China-Guizhou,True,Maori, Stroud, Ontario,1,False,52,False
+Jerry Mcgirt,1848-10-17,Venezuela,Ukrainian,Universal City-United States-California,True,Deccan, Saint Esprit, Quebec,8,False,911,True
+Alice Mcthay,1876-09-02,Iraq,Danish,Kāliyāganj-India-West Bengal,False,Kazakh, Mont-Tremblant, Quebec,1,False,560,True
+Craig Deming,1868-05-28,Turkey,Pennsylvania German,Juan Aldama-Mexico-Zacatecas,False,Hausa, Mankota, Saskatchewan,7,False,312,True
+Evangeline Applewhite,1902-06-14,Monaco,Tongan,Wolfen-Germany-Saxony-Anhalt,True,Finnish, Maidstone, Saskatchewan,7,False,270,False
+Joseph Curlee,1879-10-08,Mongolia,Aleut,Soledade-Brazil-Rio Grande do Sul,True,Romanian, Preston, Ontario,7,False,818,True
+Yolanda Collins,1915-11-01,Hatay,Scottish,Willimantic-United States-Connecticut,False,Telugu, Redwater, Alberta,4,False,642,True
+Elvira Tallent,1892-09-30,Netherlands,English,Marondera-Zimbabwe-Mashonaland East,True,Min Dong, Rosebud, Alberta,6,True,200,True
+Jenny Simon,1910-01-07,Dominican Republic,Apache,Moss Park-Canada-Ontario,True,Basque, Shedden, Ontario,5,False,436,False
+Timothy Ellis,1875-12-12,Haiti,English,Ishioka-Japan-Ibaraki,True,Jin, Strathmore, Alberta,7,False,96,True
+Kyle Holt,1910-06-09,Cuba,Slovak,Mendeleyevsk-Russia-Tatarstan Republic,True,Konkani, Barriere, British Columbia,2,True,668,True
+Daniel Miranda,1926-05-07,Canada,North African,Sezze-Italy-Lazio,True,Kinyarwanda, North Augusta, Ontario,9,False,143,True
+Patricia Thompson,1905-10-06,Kingdom of Egypt,Salvadoran,Polomolok-Philippines-Soccsksargen,True,Icelandic, Oromocto, New Brunswick,3,False,67,False
+Phyllis Martinez,1849-01-17,Newfoundland,Venezuelan,Chillán-Chile-Ñuble,True,Filipino, Angus, Ontario,7,False,744,True
+Pamela Simoneavd,1908-08-06,Turkey,German,Cihuatlán-Mexico-Jalisco,True,Haryanvi, Thurso, Quebec,6,True,776,True
+Vanessa Jones,1862-12-30,New Zealand,Menominee Indian,Montmorency-France-Île-de-France,True,Chittagonian, Langenburg, Saskatchewan,7,True,387,False
+Bruce Hamons,1847-05-06,Cuba,Costa Rican,Jarrow-United Kingdom-England,True,Hindi, Hebertville, Quebec,7,False,611,True
+Francisca Sanchez,1847-11-04,Vatican City,Menominee Indian,Chāndor-India-Maharashtra,True,Georgian, Rose Blanche-Harbour Le Cou, Newfoundland,8,False,653,True
+David Mcrae,1881-02-14,Cuba,Congolese,Bornem-Belgium-Flanders,True,Javanese, Jacquet River, New Brunswick,8,False,168,True
+Keith Noble,1918-12-09,Cuba,Portuguese,Rathenow-Germany-Brandenburg,False,Azerbaijani, Lestock, Saskatchewan,7,False,59,True
+Ralph Fields,1906-08-23,Luxembourg,Sierra Leonean,Wakefield-United States-Massachusetts,True,Garifuna, Postville, Newfoundland,2,False,861,True
+Priscilla Mcswain,1850-06-30,United Kingdom,Greek,Mīāndoāb-Iran-West Azerbaijan,True,Basque, Mulgrave, Nova Scotia,1,False,777,True
+Stefan Grimes,1884-06-18,Bulgaria,Yuman,Flandes-Colombia-Tolima,False,Portuguese, Kentville, Nova Scotia,5,True,229,True
+Gordon Boyd,1903-11-16,Hatay,Assiniboine Sioux,Pirna-Germany-Saxony,True,Portuguese, Thorold, Ontario,1,False,17,False
+Bruce Dudley,1895-09-14,Honduras,Swiss,Bāramūla-India-Jammu and Kashmir,True,Welsh, St. Walburg, Saskatchewan,2,False,55,True
+Nicole Medrano,1921-10-21,Czechoslovakia,American,Defiance-United States-Ohio,True,Spanish, Morley, Alberta,7,False,381,True
+Sharon Martin,1903-05-06,Colombia,Canadian,Baituo-China-Gansu,True,Bengali, Saint-Hubert, Quebec,2,False,867,True
+Angela Menist,1913-09-24,Norway,Chippewa-Cree Indians of the Rocky Boy's Reservation,Cheyyar-India-Tamil Nadu,True,Hindi, Cacouna, Quebec,3,False,524,True
+Edward Whitaker,1853-08-08,Nepal,Black or African American,Lingdong-China-Heilongjiang,False,Chittagonian, Waterdown, Ontario,3,True,740,True
+Samuel Ortiz,1853-03-04,Albania,Alsatian,Lushoto-Tanzania-Tanga,False,Persian, Forestville, Quebec,1,False,418,True
+Robert Fuller,1925-10-07,Haiti,Maltese,Puri-India-Odisha,True,Oriya, Chilliwack, British Columbia,1,True,222,False
+Mary Koeller,1879-07-25,Czechoslovakia,St. Vincent and Grenadine Islander,Najafgarh-India-Delhi,True,Greek, East Coulee, Alberta,6,True,731,True
+Javier Butterfield,1848-07-10,Australia,Scotch-Irish,Jaén-Spain-Andalusia,True,Hausa, Terrebonne, Quebec,8,False,71,True
+Edward Soukup,1848-12-04,Vienna,Two or more races,Curchorem-India-Goa,True,Galician, Morson, Ontario,5,True,317,True
+Diana Richards,1895-03-05,Iceland,Maltese,Paipu-China-Hainan,True,Xhosa, Sundridge, Ontario,4,False,726,True
+Lisa Kanemoto,1875-12-07,Haiti,Cameroonian,Badulla-Sri Lanka-Uva,True,Mandarin, Joe Batt`s Arm-Barr`d Islands-, Newfoundland,4,True,39,False
+Norma Brooks,1926-01-23,United States,Tongan,Manakara-Madagascar-Fitovinany Region,True,Swahili, Estevan Point, British Columbia,8,True,222,True
+Roger Ray,1862-03-12,China,Portuguese,Sivagiri-India-Tamil Nadu,True,Kannada, St-Romuald, Quebec,6,False,150,True
+Frank Massey,1871-06-08,Greece,Three Affiliated Tribes of North Dakota,Gaomi-China-Shandong,True,Dari Persian, Spaniard`s Bay, Newfoundland,8,False,175,True
+Boyd Wallace,1842-11-29,Kingdom of Egypt,Kurdish,Kot Radha Kishan-Pakistan-Punjab,True,Assamese, East York, Ontario,7,True,745,False
+Shirley Colvin,1899-10-24,Germany,Welsh,Delījān-Iran-Markazi,False,Quechua, Normandin, Quebec,3,False,993,True
+Florence Macdonald,1925-08-29,Switzerland,Lithuanian,Paraty-Brazil-Rio de Janeiro,True,Yiddish, Beaumont, Newfoundland,5,False,44,False
+Mattie Bagwell,1860-05-10,Estonia,Yuman,Fylde-United Kingdom-England,False,Russian, Valleyview, Alberta,5,False,282,True
+Clyde Devito,1897-01-08,Mongolia,Greek,Slatina-Romania-Olt,True,Cantonese, Dunnville, Ontario,6,False,578,False
+Janet Nunez,1915-05-22,Yemen,Bolivian,Şabrātah-Libya-Az Zāwiyah,True,Creole, Centreville-Wareham-Trinity, Newfoundland,9,True,914,True
+Leslie Thompson,1878-08-03,Nejd and Hejaz,Afghan,Lobito-Angola-Benguela,True,Burmese, Savant Lake, Ontario,5,False,2,False
+Christopher Sharpe,1874-12-25,New Zealand,South American Indian,Jaspur-India-Uttarakhand,True,Sindhi, Springside, Saskatchewan,7,False,994,True
+Clyde Marzinske,1854-05-26,Lithuania,Spaniard,Ridgeland-United States-Mississippi,True,Kurdish, Lark Harbour, Newfoundland,7,False,705,True
+Lacy Kropff,1901-03-17,United Kingdom,New Zealander,Krefeld-Germany-North Rhine-Westphalia,False,Jin, Patuanak, Saskatchewan,5,False,163,True
+Christine Watkins,1852-05-09,New Zealand,American Indian and Alaska Native in combination with one or more other races,Makinsk-Kazakhstan-Aqmola,True,Kirundi, Spences Bridge, British Columbia,4,False,453,True
+Colette Pollard,1867-08-21,Estonia,Swedish,la Maternitat i Sant Ramon-Spain-Catalonia,True,Korean, Hafford, Saskatchewan,9,True,649,True
+Paul Grimes,1924-03-26,Persia,Assyrian/Chaldean/Syriac,South Vineland-United States-New Jersey,True,Persian, Tantallon, Saskatchewan,7,False,577,True
+Michael Jaji,1901-06-24,Brazil,Afghan,Santos Lugares-Argentina-Buenos Aires,True,Kazakh, Keg River, Alberta,3,False,504,True
+Tobi Kenney,1864-06-09,Paraguay,Yugoslavian,Santa Ana-El Salvador-Santa Ana,True,Basque, Montreal, Quebec,4,False,960,True
+George Hoffman,1881-11-25,Brazil,Native Hawaiian,Suozhen-China-Shandong,False,Icelandic, Silver Valley, Alberta,8,False,759,True
+Raymond Crawley,1843-04-21,Ethiopia,Arapaho,Kafr Şaqr-Egypt-Sharqia,False,Binisaya, Baysville, Ontario,9,False,87,True
+Billy Posey,1870-11-25,Italy,American,Sojat-India-Rajasthan,True,Cantonese, Chateauguay, Quebec,8,False,518,True
+Robert Hogan,1843-06-24,Hatay,Delaware,Uzgen-Kyrgyzstan-Osh,True,Malagasy, Alberton, Prince Edward Island,5,False,741,True
+Andrew Mcwilliams,1912-08-02,Chile,Norwegian,Linshui-China-Hebei,True,Azerbaijani, St-Emile-de-Suffolk, Quebec,9,True,848,False
+Marcia Garcia,1895-03-12,Nicaragua,Hmong,Bera-Bangladesh-Rajshahi Division,True,Khmer, Goldboro, Nova Scotia,8,False,852,True
+Ray Mclennan,1856-12-19,Norway,Mexican American Indian,Ōta-Japan-Gunma,True,Sylheti, Yellow Creek, Saskatchewan,4,False,385,True
+Jerry Eadie,1865-01-17,Brazil,Inupiat,Kysucké Nové Mesto-Slovakia-Žilinský kraj,True,Bengali, Wainwright, Alberta,7,False,521,True
+Albert Fiorentino,1849-10-24,Cuba,Lebanese,Kampung Ayer Molek-Malaysia-Melaka,False,Norwegian, Roddickton, Newfoundland,5,False,234,True
+Lynda Skiles,1921-12-25,Korea,Confederated Tribes of the Colville Reservation,Dunstable-United Kingdom-England,True,Marathi, St-Ephrem-de-Beauce, Quebec,3,False,316,True
+George Marano,1867-11-15,Netherlands,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,Odense-Denmark-South Denmark,True,Maithili, Hemlo, Ontario,2,False,148,True
+Raymond Burns,1857-09-13,Poland,,Al Ḩirāk-Syria-Daraa,False,English, Bay de Verde, Newfoundland,7,False,874,True
+Pedro Hogan,1882-09-19,Kingdom of Egypt,Lithuanian,Zhob-Pakistan-Balochistan,False,Hakka, Abbotsford, British Columbia,2,False,748,True
+Steven Mclavrin,1851-02-03,Albania,Senegalese,Utica-United States-New York,False,Saraiki, Barry`s Bay, Ontario,2,False,654,True
+Valerie Pressley,1889-05-29,Belgium,Filipino,Győr-Hungary-Győr-Moson-Sopron,True,Irish, Belleterre, Quebec,4,False,475,False
+Julie Whitlock,1928-09-01,Hungary,Potawatomi,Klimovsk-Russia-Moscow Oblast,True,Japanese, Taber, Alberta,2,True,469,True
+Betty Thompson,1909-07-05,Latvia,Guatemalan,Campo Grande-Brazil-Mato Grosso do Sul,True,Sinhalese, Wynyard, Saskatchewan,4,True,143,True
+Patricia Dukes,1854-03-08,Brazil,Zimbabwean,Sangju-South Korea-Gyeongsangbuk-do,True,Zulu, Kazabazua, Quebec,9,False,404,False
+Marybeth Ellison,1889-06-10,Ethiopia,Bahamian,New Bedford-United States-Massachusetts,True,Mandarin, Chetwynd, British Columbia,4,True,836,False
+Kesha Johnson,1857-02-11,Romania,Swedish,Irugūr-India-Tamil Nadu,True,Mongolian, Picture Butte, Alberta,3,False,586,True
+Betty Franco,1840-05-08,Peru,Spaniard,Alfafar-Spain-Valencia,True,Tamil, Coronation, Alberta,7,False,156,True
+Lucy Baer,1924-09-20,Panama,Belizean,Jahāzpur-India-Rajasthan,True,Xiang, Pineal Lake, Ontario,5,False,68,False
+Amy Cook,1924-12-20,Sweden,Moroccan,Shin’ichi-Japan-Hiroshima,True,Macedonian, Crandall, Manitoba,4,False,247,True
+Andrew Dillis,1866-06-15,Portugal,Yugoslavian,Tejupilco de Hidalgo-Mexico-México,True,Sinhalese, Rockwood, Ontario,3,False,358,True
+Mildred Reyes,1899-01-16,Ethiopia,Sri Lankan,Polonne-Ukraine-Khmelnytskyi,True,Latin, Campbellton, New Brunswick,8,False,6,False
+Sandra Wiseman,1887-11-05,Luxembourg,Syrian,Rājgīr-India-Bihar,True,Maltese, Belle River, Ontario,3,False,532,True
+Irene Martinez,1895-08-14,Soviet Union,Dutch,Weiji-China-Jiangsu,False,Basque, Melfort, Saskatchewan,4,False,139,True
+Robert Junes,1887-12-29,Greece,Uruguayan,Helensvale-Australia-Queensland,True,Latvian, Bonne-Esperance, Quebec,2,False,942,True
+James Martin,1860-06-11,New Zealand,Malaysian,Amreli-India-Gujarat,True,Myanmar (Burmese), Smithers, British Columbia,7,False,50,False
+John Taylor,1842-06-16,Greece,German Russian,Manjeri-India-Kerala,True,Konkani, Plattsville, Ontario,3,False,176,True
+Lori Winston,1840-08-22,Monaco,Basque,Deltona-United States-Florida,True,Albanian, Chute-aux-Outardes, Quebec,9,True,135,True
+David Philips,1863-02-28,Hungary,Tongan,Supaul-India-Bihar,True,Somali, Hanley, Saskatchewan,8,False,185,False
+Jose Stalder,1896-01-19,Mexico,Honduran,Murcia-Philippines-Western Visayas,True,Myanmar (Burmese), Melville, Saskatchewan,8,False,691,True
+Melissa Robinson,1848-03-22,Romania,Asian in combination with one or more other races,Teresina-Brazil-Piauí,True,Filipino, Seldom-Little Seldom, Newfoundland,7,True,385,True
+Gregory Reed,1922-03-23,France,Pueblo,Kaitong-China-Jilin,True,, Mont Bechervaise, Quebec,7,True,462,True
+Cherie Glisson,1927-08-25,Dominican Republic,Turkish,Plymouth-United Kingdom-England,True,Uyghur, Kipling, Saskatchewan,2,False,994,True
+Nita Evey,1917-07-13,Bolivia,Maltese,Iga-Japan-Mie,False,Kurdish, McGregor, Ontario,4,False,391,True
+Eloise Stovall,1859-02-10,Belgium,Arab/Arabic,Akwanga-Nigeria-Nassarawa,True,Belarusian, St-Louis de Kent, New Brunswick,2,False,111,True
+Jamie Tassone,1923-12-21,Danzig,Okinawan,Bagong Pagasa-Philippines-Calabarzon,True,Thai, St-Alphonse-Rodriguez, Quebec,7,False,148,False
+Harry Mcdowell,1893-03-05,Costa Rica,Black or African American,Wainuiomata-New Zealand-Wellington,True,Malayalam, Coutts, Alberta,6,False,363,True
+Serena Maldonado,1859-11-28,Nicaragua,French,Noicattaro-Italy-Apulia,False,Maori, Sainte Marthe Du Cap, Quebec,7,True,90,True
+Ronald Feliciano,1842-03-08,Mexico,Mongolian,Kyzyl-Russia-Republic of Tyva,True,Bengali, Timmins, Ontario,6,False,714,True
+Tom Volante,1863-09-16,San Marino,Algerian,Parla-Spain-Madrid,True,Belarusian, Sainte Ann De Sorel, Quebec,3,False,817,True
+Robert Warren,1851-09-17,Persia,Black or African American in combination with one or more other races,Bharatpur-India-Rajasthan,False,Oromo, Alouette, Quebec,6,False,386,True
+Lavonne Gonzales,1907-12-22,Afghanistan,St. Vincent and Grenadine Islander,Beaune-France-Bourgogne-Franche-Comté,True,Japanese, Barrhead, Alberta,8,False,979,True
+Lena Gaarder,1906-09-28,Poland,Yemeni,Zenica-Bosnia and Herzegovina-Federation of B&H,True,Welsh, Larder Lake, Ontario,4,False,785,True
+Lorenzo Craig,1883-06-19,Italy,Ottawa,Al Ḩayy-Iraq-Wāsiţ,False,Javanese, St. Jacques-Coomb`s Cove, Newfoundland,4,False,525,True
+Verna Simpson,1872-08-13,Estonia,Laotian,Monchegorsk-Russia-Murmansk,True,Belarusian, St-Apollinaire, Quebec,9,True,566,False
+Jennifer Padilla,1901-03-16,Mexico,Lithuanian,Bagua Grande-Peru-Amazonas,True,Albanian, Longview, Alberta,2,False,660,False
+Craig Lee,1896-09-20,Australia,Canadian and French American Indian,Ostend-Belgium-Flanders,True,Malayalam, Milk River, Alberta,3,True,252,True
+Ronna Dobson,1915-10-13,Japan,Tunisian,Marabá-Brazil-Pará,True,Thai, Liverpool, Nova Scotia,5,True,529,False
+Leo Robins,1864-10-10,Haiti,Asian in combination with one or more other races,Shāntipur-India-West Bengal,True,Igbo, Parksville, British Columbia,7,False,884,True
+Sergio Bernard,1908-08-22,Danzig,Bulgarian,Huilong-China-Jiangsu,False,Chewa, Etobicoke, Ontario,6,False,964,True
+Alfred Bragg,1855-12-10,Venezuela,Asian in combination with one or more other races,Tiassalé-Ivory Coast-Lagunes,True,Slovak, Elie, Manitoba,9,False,620,True
+Bonnie Huntington,1890-03-22,Nepal,Some other race in combination with one or more other races,La Concepción-Panama-Chiriquí Province,True,Pashto, Saint Alphonse de Granby, Quebec,2,False,976,False
+James Taylor,1866-10-20,Honduras,Malaysian,Bejaïa-Algeria-Béjaïa,False,Tagalog, Rae Lakes, Northwest Territories,6,True,243,True
+Melisa Smith,1881-10-16,Finland,Indonesian,Suzak-Kyrgyzstan-Jalal-Abad,False,Chittagonian, Strasbourg, Saskatchewan,2,False,700,True
+Jeff Valencia,1863-05-21,Chile,Guamanian or Chamorro,Kaiama-Nigeria-Kwara,True,Greek, New Ross, Nova Scotia,3,True,692,True
+Nathaniel Desanctis,1901-07-27,Tuva,Asian in combination with one or more other races,Atambua-Indonesia-East Nusa Tenggara,True,Punjabi, Sunnyside, Newfoundland,7,False,155,True
+Sarah Meade,1889-10-24,Cuba,Uzbek,Waegwan-South Korea-Gyeongsangbuk-do,True,Sinhalese, Stettler, Alberta,1,False,936,True
+Mark Hanus,1923-07-12,Ireland,Estonian,Bou Ismaïl-Algeria-Tipaza,True,Wu, Ste-Thecle, Quebec,6,False,761,True
+Mary Pelt,1877-10-06,Belgium,Navajo Nation,Babo-Pangulo-Philippines-Central Luzon,True,Oromo, Fort Smith, Northwest Territories,5,False,48,False
+Aaron James,1861-05-20,Norway,Chilean,Villa del Prado 2da Sección-Mexico-Baja California,True,Chichewa, Grand-Sault, New Brunswick,1,False,14,False
+Betty Miesch,1901-08-18,Venezuela,Micmac,Tralee-Ireland-Munster,False,Gan, Consul, Saskatchewan,7,False,194,True
+Luis Kelley,1882-09-18,Bulgaria,Dutch West Indian,Maringá-Brazil-Paraná,True,Estonian, Pictou, Nova Scotia,2,False,230,True
+Manuela Wooley,1846-07-06,Luxembourg,Inupiat,Völklingen-Germany-Saarland,True,French, St-Cesaire, Quebec,5,False,829,True
+Dustin Reifsnyder,1879-04-18,South Africa,Confederated Salish and Kootenai Tribes of the Flathead Nation,Munich-Germany-Bavaria,False,Hindi, Paris, Ontario,5,False,274,False
+Tina Foster,1905-01-24,Newfoundland,Latvian,Bern-Switzerland-Bern,False,Gujariti, Tavistock, Ontario,2,True,722,True
+Julie Tseng,1929-08-21,China,White in combination with one or more other races,Guanarito-Venezuela-Portuguesa,False,Bosnian, Lac-Delage, Quebec,3,False,985,True
+William Alexander,1871-04-14,Canada,Yugoslavian,Nattam-India-Tamil Nadu,False,Persian, Placentia, Newfoundland,4,True,547,True
+Melissa Rogers,1865-05-29,Hungary,Romanian,Los Palacios-Cuba-Pinar del Río,True,Min Bei, Cambray, Ontario,7,True,423,True
+Ella Vergara,1852-01-27,Italy,Estonian,Nelson-United Kingdom-England,False,Hindi, Conne River, Newfoundland,2,False,538,True
+Stella Jordan,1848-02-21,Iraq,Iraqi,Torbat-e Ḩeydarīyeh-Iran-Razavi Khorasan,True,Icelandic, Pointe-Claire, Quebec,3,False,906,True
+Patricia Pittman,1853-05-23,Albania,Three or more races,Igbara-Odo-Nigeria-Ekiti,True,Swedish, English Harbour East, Newfoundland,8,False,168,True
+Frank Witt,1845-01-18,Vatican City,Black or African American in combination with one or more other races,Jiangkou-China-Chongqing,True,Saraiki, St. Gregoire de Nicolet, Quebec,8,False,181,True
+Gregory Miller,1841-01-06,United States,Egyptian,Plymouth-United Kingdom-England,False,Myanmar (Burmese), Spaniard`s Bay, Newfoundland,5,False,141,True
+George Saucier,1894-07-01,Aussa,Icelander,Shorewood-United States-Illinois,False,Khmer, Normetal, Quebec,3,False,828,True
+Michael Roseman,1854-12-05,Poland,Jordanian,Pinhal Novo-Portugal-Setúbal,True,Xhosa, Brocket, Alberta,9,False,730,False
+Stephen Ratliff,1916-06-21,Sweden,Guyanese,Saginaw Township North-United States-Michigan,True,Kirundi, Manigotagan, Manitoba,1,False,167,True
+Clarence Dishman,1897-02-28,El Salvador,Polynesian,Motru-Romania-Gorj,False,Balochi, Wolseley, Saskatchewan,6,True,196,True
+Shawn Kauffman,1919-03-06,Guatemala,Portuguese,Barika-Algeria-Batna,True,Jin, Degelis, Quebec,2,False,363,True
+Elizabeth Garcia,1863-10-12,Finland,Palestinian,Santo Domingo-Dominican Republic-Nacional,True,Balochi, Eagle Lake First Nation, Ontario,3,False,960,False
+William Scanlon,1851-07-20,Paraguay,Asian in combination with one or more other races,Dundee-United Kingdom-Scotland,True,Chewa, Biencourt, Quebec,8,False,543,True
+John Brown,1892-05-17,United Kingdom,Two or more races,Pointe-à-Pitre-Guadeloupe-Guadeloupe,True,Gan, Crabtree, Quebec,8,False,560,False
+Joseph Dobbins,1909-03-31,United Kingdom,Cherokee,Dunakeszi-Hungary-Pest,False,Belorussian, Weedon Centre, Quebec,6,False,472,True
+Earl Farmer,1924-07-18,United States,Middle Eastern,Manisa-Turkey-Manisa,False,Awadhi, St. Walburg, Saskatchewan,8,False,872,True
+Saundra Feldmann,1896-11-06,South Africa,Assyrian/Chaldean/Syriac,Būsh-Egypt-Beni Suweif,True,Creole, Gabriola, British Columbia,2,True,695,True
+Seth Patterson,1895-04-19,China,Carpatho Rusyn,Khenchela-Algeria-Khenchela,True,Hiligaynon, Sebright, Ontario,2,False,341,True
+Julia Cumberland,1853-08-05,Dominican Republic,Potawatomi,Zhenping Chengguanzhen-China-Henan,True,Sesotho, Wawota, Saskatchewan,5,False,845,True
+Mark Ioele,1846-01-31,El Salvador,Uruguayan,Vigia-Brazil-Pará,True,Romanian, Rolla, British Columbia,4,False,49,True
+Freddie Bradley,1892-03-04,South Africa,Alaska Native,Holland-United States-Michigan,True,Haryanvi, Lake Megantic, Quebec,3,False,934,True
+Arlene Oneil,1891-05-03,Norway,Pakistani,Visé-Belgium-Wallonia,True,Portuguese, Hampton, Ontario,9,False,469,True
+Richard Romero,1870-04-04,Danzig,Slovene,Westmont-United States-California,True,Albanian, Fisherville, Ontario,7,False,953,False
+William Klein,1877-03-07,Bolivia,Pima,Piura-Peru-Piura,True,Tagalog, Redbridge, Ontario,9,False,409,True
+Alicia Quince,1866-08-12,Korea,Swedish,Ospino-Venezuela-Portuguesa,False,Welsh, St-Michel-de-Bellechasse, Quebec,1,False,468,True
+Lynn Harris,1921-03-01,Denmark,Shawnee,Ipameri-Brazil-Goiás,False,Indonesian, Leroy, Saskatchewan,7,False,683,True
+Helen Smelcer,1858-12-18,Bulgaria,Thai,Nova Russas-Brazil-Ceará,True,Zhuang, Glenavon, Saskatchewan,1,False,431,True
+Margaret Cardella,1905-09-03,Bolivia,Russian,Jiaozhou-China-Shandong,True,Welsh, Les Eboulements, Quebec,4,False,576,True
+Joseph Smith,1858-01-22,United States,West Indian,Cacoal-Brazil-Rondônia,False,Kirundi, Tavistock, Ontario,5,False,213,True
+Avis Saxton,1924-02-01,Portugal,Uruguayan,Birpara-India-West Bengal,True,Sylheti, Morris, Manitoba,4,False,2,True
+Steve Cecot,1876-06-14,Netherlands,Sac and Fox,Qingzhou-China-Shandong,True,Chhattisgarhi, McAdam, New Brunswick,5,False,613,True
+Kathleen Snyder,1855-10-06,South Africa,Basque,Kōnan-Japan-Aichi,True,Saraiki, Hebertville-Station, Quebec,6,False,500,True
+Ellen Delvalle,1894-01-13,Mexico,Asian in combination with one or more other races,Ipil-Philippines-Zamboanga Peninsula,True,Tamil, Warspite, Alberta,7,False,568,True
+Callie Morales,1918-12-20,Liberia,Japanese,Tashan-China-Jiangsu,True,Russian, Burleigh Falls, Ontario,7,True,137,False
+James Booker,1862-04-05,Kingdom of Egypt,Maltese,Edgewater-United States-Illinois,True,Chittagonian, Mont-Laurier, Quebec,7,False,210,True
+Robert Crogan,1857-01-23,Yemen,American Indian and Alaska Native,Bahlā’-Oman-Ad Dakhiliyah,True,Min Dong, Hensall, Ontario,7,False,503,True
+Clara Hogg,1862-09-02,Hungary,Palestinian,Baybay-Philippines-Eastern Visayas,True,Tajik, Becancour, Quebec,9,False,159,True
+Rigoberto Garner,1896-07-21,Monaco,St. Vincent and Grenadine Islander,Elbistan-Turkey-Kahramanmaraş,True,Kazakh, Horsefly, British Columbia,1,False,841,False
+Mary Lederer,1895-12-06,Turkey,Moroccan,Nyköping-Sweden-Södermanland,True,Xiang, Eaglesham, Alberta,1,True,128,True
+Paula Collins,1909-08-26,Yugoslavia,Afghan,Geiro-Tanzania-Morogoro,True,Bangla, Little Britain, Ontario,5,False,192,True
+Rosann Rightmire,1913-11-20,United States,Asian,Beibei-China-Chongqing,False,Norwegian, Sperling, Manitoba,5,False,326,True
+Terri Keller,1881-09-29,Turkey,Argentinean,Walthamstow-United Kingdom-England,True,Sesotho, St. Victor de Beauce, Quebec,7,True,731,True
+Peter Ortega,1873-08-17,Dominican Republic,Portuguese,Nova Kakhovka-Ukraine-Kherson,True,Chewa, Dubreuilville, Ontario,2,False,832,True
+Linda Mata,1851-04-07,El Salvador,Carpatho Rusyn,Kudrovo-Russia-Leningradskaya Oblast',True,Oromo, Moosomin, Saskatchewan,9,False,700,True
+Rose Welsh,1865-05-22,Persia,South American Indian,Datia-India-Madhya Pradesh,True,Esperanto, Kedgwick, New Brunswick,9,False,737,True
+James Ellis,1918-02-03,Sweden,Nicaraguan,Krishnagiri-India-Tamil Nadu,True,Indonesian, Langara, British Columbia,5,False,468,True
+Taylor Stahl,1846-09-17,Vatican City,Paraguayan,Highview-United States-Kentucky,True,Uzbek, St. Bernard de Dorchester, Quebec,1,False,17,False
+Tammy Gooslin,1845-06-03,Argentina,Sac and Fox,Bensonhurst-United States-New York,False,Awadhi, Fort Providence, Northwest Territories,2,True,933,True
+Jack Christensen,1862-01-15,Aussa,Scotch-Irish,Puchi-China-Gansu,True,Awadhi, Lennoxville, Quebec,9,False,484,True
+Kristen Northey,1868-05-31,Costa Rica,French Canadian,Chía-Colombia-Cundinamarca,True,Hiligaynon, Markstay, Ontario,2,False,401,True
+Connie Dillow,1927-09-11,Panama,Seminole,Northampton-United Kingdom-England,False,Sinhalese, Nipissing First Nation, Ontario,4,False,807,True
+Josefina Cribbs,1860-01-06,Newfoundland,Basque,Oria-Spain-Basque Country,False,Oriya, Gjoa Haven, Nunavut,5,True,559,True
+William Mccullough,1863-05-17,Poland,Puget Sound Salish,Hayrabolu-Turkey-Tekirdağ,True,Somali, Stettler, Alberta,7,False,919,True
+Karl Mullins,1876-07-13,China,Cambodian,Kratié-Cambodia-Kratie,True,Gujariti, Pass Lake, Ontario,4,True,814,True
+James Rhoten,1904-07-01,Siam,Australian,Hadapu Zhen-China-Gansu,True,Dari Persian, Burnaby, British Columbia,5,False,142,True
+Abraham Oshey,1850-05-12,Brazil,Ghanaian,Segezha-Russia-Karelia,True,Serbo-Croatian, Eastman, Quebec,7,False,369,False
+Joey Paneto,1843-10-27,Haiti,Austrian,Worcester-United Kingdom-England,True,Kinyarwanda, Killarney, Ontario,5,False,909,True
+Thomas Anaya,1894-10-30,Bulgaria,Delaware,Grottaferrata-Italy-Lazio,True,Bosnian, Kitwanga, British Columbia,7,False,596,True
+Robert Bartram,1845-08-31,China,Ethiopian,Londrina-Brazil-Paraná,True,Xiang, Calgary, Alberta,4,False,865,False
+Marlene Hinshaw,1924-12-03,Cuba,Yaqui,Augustów-Poland-Podlasie,True,Belorussian, Riviere-du-Loup, Quebec,4,True,804,True
+Han Kramer,1918-03-15,Bolivia,Bangladeshi,Rangia-India-Assam,True,Indonesian, Pincher Creek, Alberta,7,False,18,False
+Robert Smith,1896-06-23,Liberia,Chippewa-Cree Indians of the Rocky Boy's Reservation,Marktredwitz-Germany-Bavaria,True,Garifuna, Balcarres, Saskatchewan,2,True,757,True
+Shaun Grant,1919-05-30,Iraq,Puerto Rican,Danao-Philippines-Central Visayas,True,Saraiki, Gimli, Manitoba,8,False,816,True
+Randy Brooks,1899-10-07,Greece,White in combination with one or more other races,Chalāla-India-Gujarat,False,Telugu, Low, Quebec,7,True,423,True
+Myrtle Reed,1859-03-06,Liechtenstein,Norwegian,Murbād-India-Maharashtra,True,Chinese (Simplified), Tantallon, Saskatchewan,9,False,497,True
+Clara Singletary,1844-06-23,Italy,South African,Peć-Kosovo-Pec,True,Malagasy, St. Gregoire de Nicolet, Quebec,6,True,259,True
+Joseph Bernier,1892-04-12,El Salvador,United Houma Nation,Ashton-under-Lyne-United Kingdom-England,False,Romanian, Adamsville, Quebec,4,False,878,True
+Stephen Jelden,1922-07-03,Canada,Shoshone,Dinga-Pakistan-Punjab,True,Mandarin, Vibank, Saskatchewan,8,True,549,True
+Jeffrey Ruiz,1926-05-11,Haiti,Jamaican,Atbara-Sudan-River Nile,True,Kannada, Bob Quinn Lake, British Columbia,5,False,895,True
+Mark Wellington,1914-07-08,Kingdom of Egypt,Ecuadorian,Amos-Canada-Quebec,False,Bosnian, Portugal Cove-St. Philip`s, Newfoundland,1,False,80,True
+Michael Wilkin,1894-05-03,Afghanistan,Kurdish,Burewala-Pakistan-Punjab,True,Hausa, Killam, Alberta,4,False,856,True
+Nicholas Boyd,1919-11-04,Argentina,Asian Indian,Kochkor-Ata-Kyrgyzstan-Jalal-Abad,True,Assamese, Prince Rupert, British Columbia,7,False,513,True
+Duane English,1871-02-08,Poland,Albanian,Muramvya-Burundi-Muramvya,True,Madurese, Saint Marc Sur Richelieu, Quebec,4,False,222,True
+Marco Hassler,1840-01-21,Greece,Colombian,Sattur-India-Tamil Nadu,True,Indonesian, Hampden, Newfoundland,8,False,102,True
+Angelo Webb,1899-08-13,Netherlands,Some other race in combination with one or more other races,Zarzal-Colombia-Valle del Cauca,True,Chinese (Simplified), Mooretown, Ontario,2,True,592,False
+Camille Fletcher,1845-03-23,Canada,Arapaho,Turaiyūr-India-Tamil Nadu,True,Hiligaynon, Kimberley, British Columbia,1,False,953,True
+Ericka Parks,1840-01-05,Greece,Estonian,Presidente Epitácio-Brazil-São Paulo,True,Uyghur, New Aiyansh, British Columbia,1,False,639,True
+Benjamin Gainey,1874-05-11,El Salvador,Latvian,Ubaitaba-Brazil-Bahia,False,Kirundi, Campbellford, Ontario,2,False,99,True
+Leon Bates,1922-12-29,Dominican Republic,Inupiat,Palembang-Indonesia-South Sumatra,True,Yiddish, Grand-Sault, New Brunswick,5,False,306,True
+Thomas Martinez,1892-10-30,Bulgaria,Cambodian,Madaripur-Bangladesh-Dhaka,True,Fula, Nicolet, Quebec,7,False,69,True
+Veronica Groome,1863-08-25,Bulgaria,Venezuelan,Kyshtym-Russia-Chelyabinsk,True,Urdu, St-Paulin, Quebec,5,False,697,True
+Sheila Stalnaker,1859-07-14,Tuva,Japanese,Kongolo-Democratic Republic of the Congo-Tanganyika,True,Chhattisgarhi, Cap-des-Rosiers, Quebec,7,False,234,True
+Daniel Salter,1917-01-10,Mongolia,Latvian,Baranovichi-Belarus-Brest,True,Urdu, Langdon, Alberta,5,True,990,True
+Wesley Bianco,1844-05-10,Luxembourg,Ute,Esfarāyen-Iran-North Khorasan,True,Indonesian, Parry Sound, Ontario,9,True,106,False
+Kathryn Poisson,1854-06-07,Nejd and Hejaz,Ottawa,Wassenaar-Netherlands-South Holland,True,Uzbek, Grouard, Alberta,4,False,342,True
+Angelina Zwagerman,1858-05-31,El Salvador,Hispanic or Latino,Scarborough-Australia-Western Australia,True,Hausa, St-Moose, Quebec,3,False,629,True
+Tammy Trask,1846-10-14,Afghanistan,Menominee Indian,Kantharalak-Thailand-Si Sa Ket,True,Slovenian, Sidney, British Columbia,2,True,673,True
+Daniel Norton,1853-02-16,Panama,Estonian,Sankt Wendel-Germany-Saarland,True,Belarusian, Glenavon, Saskatchewan,5,False,143,True
+Rocky Morin,1861-05-22,Netherlands,Romani,Portalegre-Portugal-Portalegre,True,Hmong, Carnduff, Saskatchewan,8,True,806,True
+Rebecca Deutsch,1845-06-16,Germany,Togolese,Tübingen-Germany-Baden-Wurttemberg,False,Chichewa, Sultan, Ontario,9,False,735,True
+Martina Guinasso,1923-09-09,Vatican City,Micmac,North Royalton-United States-Ohio,False,Uzbek, Port Mellon, British Columbia,8,False,27,False
+Lucia Manley,1919-05-20,San Marino,Guamanian or Chamorro,Novomoskovsk-Ukraine-Dnipropetrovsk,True,Belorussian, Etobicoke, Ontario,3,False,590,True
+Mary Numbers,1876-07-19,Costa Rica,Luiseno,Amagi-Japan-Fukuoka,True,Greek, Brechin, Ontario,9,False,158,True
+David Boles,1879-07-02,Paraguay,Bahamian,Anamur-Turkey-Mersin,True,, Biscotasing, Ontario,6,False,547,True
+Toney Morris,1895-05-16,Netherlands,Tunisian,Chāndūr-India-Maharashtra,True,Romanian, Les Boules, Quebec,8,False,785,True
+Preston Garcia,1888-05-28,Netherlands,Greek,Nottingham-United Kingdom-England,True,Portuguese, Bailieboro, Ontario,8,False,89,True
+Brady Monroe,1896-06-09,Colombia,Burmese,Wewak-Papua New Guinea-East Sepik,False,Madurese, Elko, British Columbia,4,True,71,True
+Matthew Borrow,1901-05-29,Poland,Delaware,Desenzano del Garda-Italy-Lombardy,True,Serbian, St-Barthelemy, Quebec,9,False,7,False
+Gary Miller,1870-11-29,Cuba,Hungarian,Manokwari-Indonesia-West Papua,True,Chinese (Simplified), Iroquois Falls, Ontario,7,False,295,True
+Lori Swearingen,1928-03-09,Lithuania,Pennsylvania German,Tawakule-China-Xinjiang,False,Hakka, Grenfell, Saskatchewan,6,True,555,True
+John Tubbs,1859-08-31,Norway,Confederated Tribes of the Colville Reservation,Ibi-Nigeria-Taraba,True,Kurdish, Repentigny, Quebec,1,False,35,False
+Louise Davis,1897-04-09,Yugoslavia,Czechoslovakian,Makassar-Indonesia-South Sulawesi,True,Estonian, Tobermory, Ontario,8,False,423,True
+Aaron Gertelman,1874-02-09,Bolivia,Paiute,Afipskiy-Russia-Krasnodar Krai,False,Lithuanian, Kashechewan First Nation, Ontario,8,False,397,True
+Charles Hawkins,1862-01-08,Newfoundland,Albanian,Docklands-Australia-Victoria,True,Kannada, Fredericton, New Brunswick,7,False,86,True
+Rebecca Thornton,1896-02-01,Latvia,Pakistani,Tacámbaro de Codallos-Mexico-Michoacán,False,Xiang, St-Joseph-de-Beauce, Quebec,9,False,965,True
+Terrence Luciani,1860-06-02,Iraq,Paraguayan,Arsk-Russia-Tatarstan Republic,True,Marwari, Ochre River, Manitoba,4,False,742,False
+Sara Filas,1890-06-11,Lithuania,Guamanian or Chamorro,Zarechnyy-Russia-Penza Oblast,True,Hmong, Brussels, Ontario,1,True,724,True
+Mario Kelley,1848-09-17,Greece,United Houma Nation,Khomeynī Shahr-Iran-Isfahan,True,Dhundhari, Port Dufferin, Nova Scotia,8,True,740,True
+Sandra Smith,1854-06-07,United Kingdom,Maltese,Temryuk-Russia-Krasnodar Krai,True,Tajik, Stratford, Ontario,1,False,161,True
+Wesley Delarosa,1859-05-15,Hungary,Pomo,Alès-France-Occitanie,True,Norwegian, Long Lac, Ontario,2,True,759,True
+Brenda Wick,1857-03-27,Mongolia,White in combination with one or more other races,Okahandja-Namibia-Otjozondjupa,True,Hindi, Pointe-Lebel, Quebec,3,False,874,True
+Jeanne Matheny,1924-07-06,Costa Rica,South American,South Old Bridge-United States-New Jersey,True,Estonian, Leaf Rapids, Manitoba,2,False,294,True
+Frank Kelly,1871-11-17,Bulgaria,Thai,Santo Domingo-Cuba-Villa Clara Province,True,Chinese (Traditional), Hampden, Newfoundland,4,False,356,True
+Patti Crye,1913-08-26,Latvia,Egyptian,Langsa-Indonesia-Aceh,False,Somali, Sibbald, Alberta,9,False,812,True
+Darnell Mcelwaine,1883-07-24,Dominican Republic,Uruguayan,Tours-France-Centre,True,Filipino, Matheson, Ontario,2,False,235,True
+Henry Baker,1919-09-05,Tuva,Mexican American Indian,Biarritz-France-Nouvelle-Aquitaine,True,Maltese, Nobleton, Ontario,4,False,227,True
+Alfred Lopez,1874-12-06,Paraguay,Czech,Pakisaji-Indonesia-East Java,True,Chittagonian, St. Martins, New Brunswick,8,False,153,True
+Michael Moore,1927-06-13,Australia,Yemeni,Fairfield-Australia-New South Wales,True,Kinyarwanda, Cross Lake, Manitoba,3,False,329,True
+John Kruger,1879-12-13,France,Guamanian or Chamorro,Gurlan-Uzbekistan-Xorazm,False,Zhuang, Claremont, Ontario,5,False,113,True
+John Gillick,1852-10-26,Chile,Pueblo,Illertissen-Germany-Bavaria,False,Haryanvi, Trepassey, Newfoundland,9,True,145,False
+Robert Vasquez,1929-04-27,China,Hungarian,Sabaneta-Venezuela-Barinas,True,Portuguese, Ketch Harbour, Nova Scotia,9,False,96,False
+Michael Diaz,1904-10-09,Afghanistan,Miami,Arpino-Italy-Campania,True,Deccan, Mattice, Ontario,1,True,391,False
+William Adkins,1890-05-29,Poland,Luxemburger,Auburn-Australia-New South Wales,True,Maithili, St. Lawrence, Newfoundland,5,True,544,True
+Mary Whitaker,1844-08-18,Estonia,Danish,Bear-United States-Delaware,True,Hungarian, Battle Harbour, Newfoundland,7,True,270,False
+Ann Williams,1918-05-07,El Salvador,Dominican,Beidao-China-Gansu,True,Myanmar (Burmese), Courcelles, Quebec,2,False,778,False
+Patrick Doung,1845-07-04,Paraguay,European,Kraśnik-Poland-Lublin,True,Thai, Cottlesville, Newfoundland,1,False,100,True
+Mary Maier,1902-04-11,Estonia,Algerian,West Hills-United States-California,True,Somali, Baker Brook, New Brunswick,5,False,434,True
+Brenda Bodak,1928-10-08,Danzig,Canadian and French American Indian,Vasyl'evsky Ostrov-Russia-St.-Petersburg,True,Assamese, Millertown, Newfoundland,9,False,52,True
+John Farmer,1886-05-21,Brazil,Russian,Financial District-United States-New York,True,Maltese, Gander, Newfoundland,9,False,639,True
+Walter Nisbet,1916-09-10,Nicaragua,Vietnamese,Woodland Hills-United States-California,False,Gujariti, Parksville, British Columbia,7,False,109,True
+Gloria Roby,1896-08-17,Belgium,American Indian,Tengyue-China-Yunnan,True,Sundanese, Wembley, Alberta,8,False,895,False
+Michael Damron,1901-07-02,Venezuela,Confederated Salish and Kootenai Tribes of the Flathead Nation,Magdalena Atlicpac-Mexico-México,False,Chewa, Sandy Lake, Ontario,8,False,773,True
+Ann Perez,1922-01-19,Ireland,British,Tríkala-Greece-Thessaly,True,Vietnamese, Bromont, Quebec,3,False,691,True
+Karen Peachey,1880-04-14,Honduras,Burmese,Shatura-Russia-Moscow Oblast,False,Tajik, Big River, Saskatchewan,3,False,115,False
+Jimmy Toher,1872-05-12,San Marino,Crow Tribe of Montana,Elgin-United Kingdom-Scotland,True,Hakka, Saugeen First Nation, Ontario,5,False,756,True
+Orlando Cooley,1895-08-24,Nepal,Alaska Native,Mineralnye Vody-Russia-Stavropol Kray,True,Macedonian, Warspite, Alberta,5,False,469,True
+Jeanine Buisson,1844-01-29,Switzerland,Indonesian,Huixian Chengguanzhen-China-Gansu,True,Norwegian, Saint-Ferdinand, Quebec,5,False,75,True
+Johnny Estes,1905-12-24,Denmark,Iraqi,Pozo Almonte-Chile-Tarapacá,False,Hungarian, Kuujjuaq, Quebec,3,True,31,False
+Richard Meier,1879-08-28,Paraguay,Australian,Kirkby in Ashfield-United Kingdom-England,True,Slovenian, Deerbrook, Ontario,1,False,611,False
+Gary Farley,1929-07-03,Sweden,Ghanaian,Kon Tum-Vietnam-Kon Tum,True,, Whitbourne, Newfoundland,1,True,332,False
+Edward Bunch,1870-06-29,Canada,Tanzanian,Jiazi-China-Guangdong,True,Slovenian, Belmont, Ontario,2,True,973,True
+Charles Marker,1896-12-01,Mongolia,Central American,Marquette-United States-Michigan,True,Chinese (Traditional), Princeville, Quebec,6,True,107,True
+Dennis Briggs,1876-08-10,Ethiopia,Celtic,Brockton-United States-Massachusetts,True,Polish, Nisku, Alberta,5,False,85,True
+George Burgos,1893-09-30,Ethiopia,Iraqi,Kalur Kot-Pakistan-Punjab,True,Russian, South River, Ontario,1,False,230,True
+Steve Burnell,1879-02-20,Bulgaria,Congolese,Chickasha-United States-Oklahoma,True,Georgian, Acadia Valley, Alberta,9,False,346,True
+William Stein,1927-07-07,Newfoundland,Cambodian,Perungudi-India-Tamil Nadu,True,Oriya, Parksville, British Columbia,4,False,797,True
+Clayton Mosley,1840-12-18,Vatican City,Cambodian,Fuenlabrada-Spain-Madrid,True,Norwegian, Frankford, Ontario,9,False,990,True
+Jaime Mercado,1911-09-08,Newfoundland,Scandinavian,Biankouma-Ivory Coast-Montagnes,False,Dutch, Cameron, Ontario,5,False,729,True
+Christina Kennedy,1902-08-13,Romania,Venezuelan,Gela-Italy-Sicily,False,Gan, Batawa, Ontario,3,False,205,True
+Helen Jacobs,1844-02-18,China,Nepalese,Dursunbey-Turkey-Balıkesir,False,Dari Persian, Big Valley, Alberta,6,False,959,True
+Bobette Muniz,1926-01-02,France,Uzbek,Roissy-en-Brie-France-Île-de-France,True,Serbo-Croatian, Sudbury, Ontario,1,False,821,True
+Michael Grober,1909-12-14,Soviet Union,Chinese,Chefushan-China-Jiangsu,False,Croation, Beaverdell, British Columbia,7,True,844,True
+Susan Lambert,1886-10-26,Soviet Union,Yuman,North Olmsted-United States-Ohio,True,Castilian, Scotland, Ontario,4,True,915,True
+Ruth Benedix,1922-11-16,Ireland,Dominican,Herisau-Switzerland-Appenzell Ausserrhoden,False,Esperanto, Toronto Island, Ontario,7,False,947,True
+Glennis Herman,1925-03-18,Lithuania,Bulgarian,Tiruchchendur-India-Tamil Nadu,False,Khmer, Omerville, Quebec,1,False,196,True
+Julie Grimes,1923-05-18,Kingdom of Egypt,Bhutanese,Medvedevo-Russia-Mariy-El Republic,True,Igbo, Melville, Saskatchewan,6,False,296,True
+Juan Hess,1925-05-31,New Zealand,Hmong,Reggio Calabria-Italy-Calabria,True,Italian, Arborg, Manitoba,2,False,742,True
+Hugh Everett,1879-02-21,Guatemala,West Indian,Buzău-Romania-Buzău,True,Malay, Aneroid, Saskatchewan,2,False,993,True
+Robert Perales,1891-05-14,Canada,Canadian,Diadi-Philippines-Cagayan Valley,True,Portuguese, Kitimat, British Columbia,1,False,90,True
+Robert Randall,1854-08-11,Tuva,Peruvian,Nekā-Iran-Māzandarān,False,Dutch, Hixon, British Columbia,9,False,9,True
+Concepcion Sawyer,1881-04-23,Persia,Togolese,Novokubansk-Russia-Krasnodar Krai,True,Min Dong, Grimshaw, Alberta,6,False,90,True
+Timothy Range,1883-01-22,Uruguay,Ute,Fort Collins-United States-Colorado,True,Latvian, Ville-Marie, Quebec,1,False,607,False
+Chris Rosengren,1867-01-20,Germany,Celtic,Ibrā’-Oman-Northeastern Governorate,True,Latin, Prince George, British Columbia,9,False,685,True
+Bethany Perkins,1909-11-11,Greece,Subsaharan African,Villa de Cura-Venezuela-Aragua,True,Maithili, Elgin, Manitoba,9,True,378,True
+Marshall Tanner,1908-09-27,Honduras,Swedish,Kampung Baharu Nilai-Malaysia-Negeri Sembilan,False,Javanese, Valemount, British Columbia,8,False,94,True
+Kathleen Horton,1888-03-20,Venezuela,Oneida Tribe of Indians of Wisconsin,Weener-Germany-Lower Saxony,False,Pashto, Johnstown, Ontario,3,False,550,True
+Gia Freeman,1918-04-01,Netherlands,Pennsylvania German,Pezinok-Slovakia-Bratislavský Kraj,True,Madhura, Palgrave, Ontario,5,False,553,True
+Elizabeth Dicus,1845-01-23,Peru,Creek,Barpeta Road-India-Assam,True,Belorussian, Winkler, Manitoba,5,False,130,True
+Jennifer Lewis,1849-07-27,South Africa,Scottish,Lizhi-China-Chongqing,True,Swahili, Nakina, Ontario,2,False,326,True
+Stacie Knight,1914-02-18,Liberia,Polynesian,Kati-Mali-Koulikoro,True,Nepali, Ste. Gertrude, Quebec,3,True,683,True
+Jerry Fitzgerald,1861-02-06,Vienna,Czechoslovakian,Reef Al Fujairah City-United Arab Emirates-Fujairah,False,Min Bei, Sorel-Tracy, Quebec,1,False,329,True
+James Bland,1858-09-18,United States,English,Minaçu-Brazil-Goiás,True,Hausa, St. Vincent de Paul, Quebec,7,False,614,True
+Sylvia Sellers,1888-06-28,Brazil,Paraguayan,Tampa-United States-Florida,False,Kazakh, Calling Lake, Alberta,9,False,917,True
+Brian Mccorkle,1854-01-07,El Salvador,Cambodian,Magdalena de Kino-Mexico-Sonora,False,Malay, Riviere-au-Renard, Quebec,4,True,420,True
+Myrtle Lacefield,1893-10-16,Cuba,Yup'ik,Bristol-United States-Tennessee,True,Khmer, St-Simeon, Quebec,3,True,51,True
+Martha Greenwood,1862-01-02,Kingdom of Egypt,Micmac,Limuru-Kenya-Kiambu,True,Cantonese, Tantallon, Saskatchewan,1,False,345,True
+Carlos Weaver,1893-02-14,Japan,Two or more races,Gersthofen-Germany-Bavaria,True,Esperanto, Estaire, Ontario,3,False,680,True
+William Vincent,1872-08-27,Vatican City,Sioux,Nogales-Mexico-Sonora,True,Uzbek, Prevost, Quebec,3,False,803,True
+Ashley Bowser,1918-08-20,Vienna,Cheyenne,Pantelimon-Romania-Ilfov,True,Min Nan, Halifax, Nova Scotia,6,False,226,True
+Thomas Wilson,1878-04-27,Belgium,Three Affiliated Tribes of North Dakota,West Columbia-United States-South Carolina,True,Mossi, Kitscoty, Alberta,7,False,439,True
+Leila Hawes,1892-01-22,United States,Chippewa-Cree Indians of the Rocky Boy's Reservation,Ahmedabad-India-Gujarat,False,Kannada, Yahk, British Columbia,9,False,519,True
+Janet Madden,1889-01-16,Bolivia,Scotch-Irish,Raigarh-India-Chhattisgarh,False,Korean, Kelwood, Manitoba,4,False,911,False
